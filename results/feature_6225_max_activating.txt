@@ -1,0 +1,65 @@
+--- Max Activating Examples for Feature 6225 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/20 | Activation: 0.3701 | Example Index: 21240 | Token Index: 246 (Likely Padding)
+--------------------
+Rank 2/20 | Activation: 0.2120 | Example Index: 7105 | Token Index: 70
+Token: ','
+Context: ... they play, and some are among of the worst movies I've ever seen >>>,<<< I have actually been able to enjoy some MST3K movies. That being...
+--------------------
+Rank 3/20 | Activation: 0.2081 | Example Index: 17302 | Token Index: 37
+Token: ' that'
+Context: ... talent, style, and artistic integrity to make films outside of the surreal aura >>> that<<< he's become known for in the past decade. As much as the film...
+--------------------
+Rank 4/20 | Activation: 0.2047 | Example Index: 19787 | Token Index: 332 (Likely Padding)
+--------------------
+Rank 5/20 | Activation: 0.1879 | Example Index: 7226 | Token Index: 315 (Likely Padding)
+--------------------
+Rank 6/20 | Activation: 0.1821 | Example Index: 24444 | Token Index: 426
+Token: 'k'
+Context: ... that deceive you. She can be a real hellion sometimes. Kit Cloud >>>k<<< icker is a darker character than the rest. He doesn't trust adults much...
+--------------------
+Rank 7/20 | Activation: 0.1783 | Global Index: 10367450 | Error: Could not map to example
+--------------------
+Rank 8/20 | Activation: 0.1782 | Example Index: 9587 | Token Index: 167
+Token: ' is'
+Context: ... when and how James will discover this. Also when the break comes, James >>> is<<< in a way hunted by the evil, and you feel some suspense until "...
+--------------------
+Rank 9/20 | Activation: 0.1599 | Example Index: 8233 | Token Index: 271
+Token: 'y'
+Context: ...there's even one scene honoring her!). She balances perfectly between vulnerable and whims >>>y<<< . Katie really does show us that you can't judge a book by its...
+--------------------
+Rank 10/20 | Activation: 0.1523 | Example Index: 20512 | Token Index: 162
+Token: ' he'
+Context: ... Creasy goes through due to the loss of Pita and the sheer passion >>> he<<< has for getting her back, you can't help but side with Creasy...
+--------------------
+Rank 11/20 | Activation: 0.1474 | Example Index: 47 | Token Index: 73
+Token: '.'
+Context: ...ee Pfieffer's performance was awful I thought. She was very irritating >>>.<<< The girl who played Lori did a good job and so did most of the...
+--------------------
+Rank 12/20 | Activation: 0.1470 | Example Index: 17767 | Token Index: 23
+Token: ' an'
+Context: ..., in fact it's kinda silly. But it delivers what you want in >>> an<<< Arnie movie and that is action and entertainment. I don't see how...
+--------------------
+Rank 13/20 | Activation: 0.1470 | Example Index: 7302 | Token Index: 458 (Likely Padding)
+--------------------
+Rank 14/20 | Activation: 0.1429 | Example Index: 15740 | Token Index: 314
+Token: ' /><'
+Context: ... making us very uncomfortable with this alternate world/ongoing dream...<br >>> /><<<< br />One of the things Anna adds to the house is a boy,...
+--------------------
+Rank 15/20 | Activation: 0.1415 | Example Index: 15277 | Token Index: 316 (Likely Padding)
+--------------------
+Rank 16/20 | Activation: 0.1412 | Example Index: 9288 | Token Index: 403 (Likely Padding)
+--------------------
+Rank 17/20 | Activation: 0.1397 | Example Index: 19155 | Token Index: 223
+Token: ' Bu'
+Context: ... kind of un-perfect musical taste I found when watching Wim Wenders >>> Bu<<< ena Vista Social Club.<br /><br />The Documentary was such a standing...
+--------------------
+Rank 18/20 | Activation: 0.1388 | Example Index: 96 | Token Index: 422 (Likely Padding)
+--------------------
+Rank 19/20 | Activation: 0.1370 | Example Index: 7588 | Token Index: 166
+Token: 'ness'
+Context: ... artificial at times, and the direction which is pedestrian to the port of dull >>>ness<<< . There is no life in the way things are set up. Its as...
+--------------------
+Rank 20/20 | Activation: 0.1364 | Example Index: 13369 | Token Index: 192 (Likely Padding)
+--------------------

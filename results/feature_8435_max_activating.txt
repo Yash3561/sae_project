@@ -1,0 +1,61 @@
+--- Max Activating Examples for Feature 8435 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/20 | Activation: 0.2802 | Example Index: 9296 | Token Index: 207
+Token: ' "'
+Context: .... JUST LIKE A MAN! My mothers favorite part was when they gave the >>> "<<< Spawn of the Devil Child" her very own Rottweiler. My...
+--------------------
+Rank 2/20 | Activation: 0.2008 | Example Index: 23553 | Token Index: 349 (Likely Padding)
+--------------------
+Rank 3/20 | Activation: 0.2004 | Global Index: 10258031 | Error: Could not map to example
+--------------------
+Rank 4/20 | Activation: 0.1658 | Example Index: 1685 | Token Index: 270 (Likely Padding)
+--------------------
+Rank 5/20 | Activation: 0.1640 | Example Index: 19614 | Token Index: 388 (Likely Padding)
+--------------------
+Rank 6/20 | Activation: 0.1607 | Example Index: 675 | Token Index: 455 (Likely Padding)
+--------------------
+Rank 7/20 | Activation: 0.1605 | Example Index: 19249 | Token Index: 251 (Likely Padding)
+--------------------
+Rank 8/20 | Activation: 0.1545 | Example Index: 11885 | Token Index: 87
+Token: ' chance'
+Context: ... has devised a way to communicate with the monsters, but is not given much >>> chance<<< for vague reasons. Also among the crew are:David Keith, Mark She...
+--------------------
+Rank 9/20 | Activation: 0.1451 | Example Index: 16686 | Token Index: 2
+Token: ' incredible'
+Context: ...<|begin_of_text|>An >>> incredible<<< little English film for so many reasons. First it's a rare look a...
+--------------------
+Rank 10/20 | Activation: 0.1408 | Example Index: 6628 | Token Index: 414 (Likely Padding)
+--------------------
+Rank 11/20 | Activation: 0.1408 | Example Index: 3755 | Token Index: 323 (Likely Padding)
+--------------------
+Rank 12/20 | Activation: 0.1404 | Example Index: 20879 | Token Index: 40
+Token: ' opportun'
+Context: ...ibility. She will do everything to make her marriage work, including shameless >>> opportun<<< ism and sexual manipulation. And thus beneath the vicey exterior, she reveals...
+--------------------
+Rank 13/20 | Activation: 0.1370 | Example Index: 4110 | Token Index: 180
+Token: ' even'
+Context: .... I can only describe it as a 1990s equivalent to the >>> even<<< ghastly 1978 adaption of the Water Babies, because the...
+--------------------
+Rank 14/20 | Activation: 0.1364 | Example Index: 13937 | Token Index: 99
+Token: ' I'
+Context: ... film during my childhood, but I did because there was something about it. >>> I<<< didn't want to limit myself to the slasher and zombies movies of the...
+--------------------
+Rank 15/20 | Activation: 0.1354 | Global Index: 10694960 | Error: Could not map to example
+--------------------
+Rank 16/20 | Activation: 0.1353 | Example Index: 20436 | Token Index: 355 (Likely Padding)
+--------------------
+Rank 17/20 | Activation: 0.1311 | Example Index: 17995 | Token Index: 134
+Token: 'aux'
+Context: ... of an actor by the name of Matthew Ashford who plays Jack Dever >>>aux<<< on Days of Our Lives - the Soap Opera....
+--------------------
+Rank 18/20 | Activation: 0.1307 | Example Index: 1575 | Token Index: 328 (Likely Padding)
+--------------------
+Rank 19/20 | Activation: 0.1303 | Example Index: 15570 | Token Index: 90
+Token: ' close'
+Context: ... drink. The take off of Michael Jackson is so like him, if you >>> close<<< your eyes you believe it's him singing. The things he describes are true...
+--------------------
+Rank 20/20 | Activation: 0.1302 | Example Index: 15184 | Token Index: 166
+Token: ','
+Context: ... for men meeting single women. Americans in Japan were totally foreign to this culture >>>,<<< and the blunt attempts to meet women were shocking to the ladies. One trait...
+--------------------
