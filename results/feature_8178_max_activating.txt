@@ -1,0 +1,73 @@
+--- Max Activating Examples for Feature 8178 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/20 | Activation: 0.2050 | Example Index: 16104 | Token Index: 125
+Token: ' nobody'
+Context: ... a comprehensive whole. This buffet has so many great ingredients, I am glad >>> nobody<<< tried to put them all in a single dish....
+--------------------
+Rank 2/20 | Activation: 0.1983 | Example Index: 14087 | Token Index: 240
+Token: ' and'
+Context: ... scene -- the scene was compelling and beautifully crafted. There are so many stunning >>> and<<< memorable scenes the original meeting between the Cher and Nicolas Cage characters, where Cage...
+--------------------
+Rank 3/20 | Activation: 0.1948 | Example Index: 10926 | Token Index: 307
+Token: ' characters'
+Context: ... on constructing a set, and so it is very small, and all the >>> characters<<< are constantly huddled together. The White Witch's castle is a run-down...
+--------------------
+Rank 4/20 | Activation: 0.1924 | Example Index: 23061 | Token Index: 121
+Token: 'br'
+Context: ... rare experience with so many mass produced pieces of "nothing" out there.< >>>br<<< /><br />Don't miss this.<br /><br />...
+--------------------
+Rank 5/20 | Activation: 0.1767 | Example Index: 15171 | Token Index: 60
+Token: ' falls'
+Context: ... a pretty good bid to knock Chris off the top, though he just barely >>> falls<<< short. That doesn't stop me from enjoying this film, it has a...
+--------------------
+Rank 6/20 | Activation: 0.1730 | Example Index: 22428 | Token Index: 393 (Likely Padding)
+--------------------
+Rank 7/20 | Activation: 0.1713 | Example Index: 15174 | Token Index: 357 (Likely Padding)
+--------------------
+Rank 8/20 | Activation: 0.1623 | Example Index: 12181 | Token Index: 174
+Token: '.'
+Context: ... too much dead time when things are all talk in the middle and later sections >>>.<<< The acting is fine and the sets quite good but there is a reason why...
+--------------------
+Rank 9/20 | Activation: 0.1580 | Example Index: 17075 | Token Index: 213
+Token: ' admit'
+Context: ... when they happened. Before I spoil this movie with praises, I have to >>> admit<<< that there were some things and situations that didn't look and feel realistic.....
+--------------------
+Rank 10/20 | Activation: 0.1519 | Example Index: 23066 | Token Index: 500 (Likely Padding)
+--------------------
+Rank 11/20 | Activation: 0.1499 | Example Index: 15180 | Token Index: 179
+Token: ' ways'
+Context: ... The military has always butted in to the personal lives of its personnel in >>> ways<<< no civilian employer could get away with legally. In America at the time Say...
+--------------------
+Rank 12/20 | Activation: 0.1481 | Example Index: 2143 | Token Index: 477 (Likely Padding)
+--------------------
+Rank 13/20 | Activation: 0.1471 | Global Index: 10505708 | Error: Could not map to example
+--------------------
+Rank 14/20 | Activation: 0.1461 | Example Index: 7175 | Token Index: 493
+Token: ' directing'
+Context: ... this movie, I mean I think Istvan Szabo must be modeling his >>> directing<<< career after him. Long drawn out movie which totally ruins any substance in the...
+--------------------
+Rank 15/20 | Activation: 0.1452 | Example Index: 17579 | Token Index: 356
+Token: ' these'
+Context: ... because he's so young and easily impressionable. But everything that happens to >>> these<<< three is rather convincing, in fact, TOO convincing. <br /><br...
+--------------------
+Rank 16/20 | Activation: 0.1445 | Example Index: 11441 | Token Index: 451
+Token: ' I'
+Context: ... at least none that are as strong as this dumb film makes out. Maybe >>> I<<< 'm being a bit harsh, I mean it's only a film after all...
+--------------------
+Rank 17/20 | Activation: 0.1397 | Example Index: 11453 | Token Index: 175
+Token: ' and'
+Context: ..., please do not be offended- ALways had a soft spot for you >>> and<<< there are more important things going on in the world to worry about than your...
+--------------------
+Rank 18/20 | Activation: 0.1397 | Example Index: 20409 | Token Index: 204
+Token: ' the'
+Context: ..., but now he simply makes them part of that rhythmic flow, with >>> the<<< level of activity on the screen swelling up like an orchestra.<br /><br...
+--------------------
+Rank 19/20 | Activation: 0.1338 | Example Index: 9296 | Token Index: 207
+Token: ' "'
+Context: .... JUST LIKE A MAN! My mothers favorite part was when they gave the >>> "<<< Spawn of the Devil Child" her very own Rottweiler. My...
+--------------------
+Rank 20/20 | Activation: 0.1331 | Example Index: 5207 | Token Index: 110
+Token: ' the'
+Context: ... box, and find...nothing. That's TOYS. You either enjoy >>> the<<< packaging, or forget about it.<br /><br />The film isn't...
+--------------------
