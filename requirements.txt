@@ -1,0 +1,24 @@
+# requirements.txt
+
+# Core ML Libraries (Choose ONE torch line based on Wulver's CUDA)
+# For CUDA 11.8
+torch>=2.0.0 --index-url https://download.pytorch.org/whl/cu118
+torchvision --index-url https://download.pytorch.org/whl/cu118
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+# For CUDA 12.1 (Use if available and preferred)
+# torch>=2.0.0 --index-url https://download.pytorch.org/whl/cu121
+# torchvision --index-url https://download.pytorch.org/whl/cu121
+# torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# Hugging Face ecosystem & dependencies
+transformers>=4.38.0 # Use a recent version
+datasets>=2.14.0
+accelerate>=0.25.0
+bitsandbytes>=0.41.0 # Check Wulver docs if compilation issues occur
+huggingface_hub>=0.20.0
+sentencepiece
+
+# Other utilities
+numpy<2.0 # Pin numpy version as before
+matplotlib
+tqdm

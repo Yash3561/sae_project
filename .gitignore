@@ -1,0 +1,18 @@
+# Ignore directories
+envs/
+llama_activations_train/
+llama_activations_test/
+sae_models_layer24/
+__pycache__/
+.cache/
+logs/ # If you create a logs directory
+
+# Ignore specific file patterns
+*.pt
+*.out
+*.err
+*.log
+*.ipynb_checkpoints*
+
+# Ignore virtual environment directory created by venv (just in case)
+nlp_sae_env/
