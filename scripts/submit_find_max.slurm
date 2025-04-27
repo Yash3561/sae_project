@@ -11,7 +11,7 @@
 #SBATCH --account=2025-spring-ds-680-md748-ygc2 # <<< YOUR Account
 #SBATCH --qos=standard              # <<< VERIFY/CHANGE: QOS for partition
 #SBATCH --time=02:00:00             # <<< Adjust time: 2 hours per feature? Monitor & adjust. Max per job task.
-#SBATCH --array=9988,10410,14269,8178,8435,6225,9164 # <<< EDIT THIS: List of feature indices from Epoch 10 output
+#SBATCH --array=9988,11257,11310,1986,9157,16082,9407,15710,13655,15417,10410,8377,14269,10350,8178,13536,8435,6225,9164,9333 # <<< EDIT THIS: List of feature indices from Epoch 10 output
 
 # --- Wulver Environment Setup ---
 echo "Starting Max Activation job on $(hostname)"
@@ -57,7 +57,7 @@ python scripts/find_max_activations.py \
     --dataset_id "imdb" \
     --dataset_split "train" \
     --tokenizer_id "meta-llama/Llama-3.1-8B-Instruct" \
-    --top_n 20 \
+    --top_n 100 \
     --context_tokens 15 \
     --device "cuda" \
     --output_file "${OUTPUT_FILENAME}"
