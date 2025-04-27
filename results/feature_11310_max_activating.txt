@@ -1,0 +1,339 @@
+--- Max Activating Examples for Feature 11310 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/100 | Activation: 0.2715 | Example Index: 19510 | Token Index: 246
+Token: ' actually'
+Context: ... beating the meanest man in the west (Stephen McNally), who is >>> actually<<< his own brother and caused the death of their father. When the brother steals...
+--------------------
+Rank 2/100 | Activation: 0.2261 | Example Index: 3710 | Token Index: 298
+Token: '.'
+Context: ... living gorilla on record, by the way) before a show in Miami >>>.<<< Notice also, in the film, how Buddy grows older but the chimpanze...
+--------------------
+Rank 3/100 | Activation: 0.2246 | Example Index: 21661 | Token Index: 88
+Token: ' sitting'
+Context: ... was picking up all of his music compositions, and the Apollonia was >>> sitting<<< on the stairwell with his earing in her hand. Critics say that...
+--------------------
+Rank 4/100 | Activation: 0.2194 | Example Index: 4529 | Token Index: 210
+Token: ' times'
+Context: ... the shots of Seattle, cinematography was beautiful, acting was good in the >>> times<<< it wasn't outstanding....
+--------------------
+Rank 5/100 | Activation: 0.2085 | Example Index: 17152 | Token Index: 30
+Token: ' P'
+Context: ... he is 'on'. With co-stars like Ms. Henner, Joe >>> P<<< iscopo and Danny DeVito, you can't go wrong. Great laughs...
+--------------------
+Rank 6/100 | Activation: 0.1785 | Example Index: 20264 | Token Index: 363 (Likely Padding)
+--------------------
+Rank 7/100 | Activation: 0.1774 | Example Index: 1933 | Token Index: 82
+Token: ' couldn'
+Context: ... like genius compared to this dreck. The best script doctor in the world >>> couldn<<< 't have saved this putrid pile of of stinking poo.<br /><...
+--------------------
+Rank 8/100 | Activation: 0.1771 | Example Index: 3483 | Token Index: 175 (Likely Padding)
+--------------------
+Rank 9/100 | Activation: 0.1741 | Example Index: 5547 | Token Index: 503 (Likely Padding)
+--------------------
+Rank 10/100 | Activation: 0.1729 | Example Index: 22162 | Token Index: 35
+Token: ' dab'
+Context: ... she is on stage. Whether we are laughing at her jokes and antics or >>> dab<<< bing our eyes at the strains of one of her tremendous ballads, B...
+--------------------
+Rank 11/100 | Activation: 0.1682 | Global Index: 10288635 | Error: Could not map to example
+--------------------
+Rank 12/100 | Activation: 0.1633 | Global Index: 10417424 | Error: Could not map to example
+--------------------
+Rank 13/100 | Activation: 0.1546 | Example Index: 12353 | Token Index: 64
+Token: ' to'
+Context: ... course if you are interested in the crapstory (Demi Moore just wants >>> to<<< prove that a woman can be part of the NAVY Seals) that...
+--------------------
+Rank 14/100 | Activation: 0.1534 | Example Index: 21794 | Token Index: 33
+Token: '.'
+Context: .... As a result, we have experienced different genres when the medium is concerned >>>.<<< Jafar Panahi, unlike J.L. Godard or F....
+--------------------
+Rank 15/100 | Activation: 0.1444 | Example Index: 16420 | Token Index: 27
+Token: ' the'
+Context: ... would love to get an original release in a format we can use here in >>> the<<< States. Eddie truly is Glorious in this performance from San Francisco. I...
+--------------------
+Rank 16/100 | Activation: 0.1419 | Example Index: 15496 | Token Index: 75
+Token: ' fact'
+Context: ... hes performance is not as funny as it was in the first movie, in >>> fact<<< you don't notice him much at all. A thing that made me think...
+--------------------
+Rank 17/100 | Activation: 0.1413 | Global Index: 10494135 | Error: Could not map to example
+--------------------
+Rank 18/100 | Activation: 0.1391 | Example Index: 18176 | Token Index: 54
+Token: ' scary'
+Context: ... She will learn the house's secrets.<br /><br />It is very >>> scary<<< ! The scenes are shocking and frightening! The characters are good. The settings...
+--------------------
+Rank 19/100 | Activation: 0.1385 | Example Index: 23393 | Token Index: 49
+Token: ' /><'
+Context: ... B movie, but afterward i understood what an amazing product this was.<br >>> /><<<< br />I suggested to some friends to see the movie, only to tell...
+--------------------
+Rank 20/100 | Activation: 0.1359 | Example Index: 12478 | Token Index: 247 (Likely Padding)
+--------------------
+Rank 21/100 | Activation: 0.1359 | Example Index: 4319 | Token Index: 29
+Token: ' a'
+Context: ... movie was in story and in special effects. Jason Scott Lee Is good as >>> a<<< vampire hunter looking for the count himself (if you remember him, he was...
+--------------------
+Rank 22/100 | Activation: 0.1326 | Example Index: 22061 | Token Index: 251
+Token: ' truly'
+Context: ...ademy Award" for the late photographer. Mr. Hall's work is >>> truly<<< superlative. This helps make up for the overall impression of a measured...
+--------------------
+Rank 23/100 | Activation: 0.1316 | Example Index: 2085 | Token Index: 274
+Token: ' heart'
+Context: ...'t work because it's not funny and at its heart the film has no >>> heart<<< . We're supposed to give a damn about how war affects Cusack...
+--------------------
+Rank 24/100 | Activation: 0.1263 | Example Index: 5129 | Token Index: 35
+Token: 'Cart'
+Context: ... levels and I cannot understand how it ever got made.<br /><br /> >>>Cart<<< oon characters abound - Sue's foul-mouthed, alcoholic, layabout,...
+--------------------
+Rank 25/100 | Activation: 0.1249 | Example Index: 13376 | Token Index: 59 (Likely Padding)
+--------------------
+Rank 26/100 | Activation: 0.1241 | Example Index: 12984 | Token Index: 342
+Token: ' drawn'
+Context: ... by the amazing special effects and epic feel of this movie. You will be >>> drawn<<< into this fantasy world and you won't want to leave! I've seen...
+--------------------
+Rank 27/100 | Activation: 0.1223 | Example Index: 22479 | Token Index: 352 (Likely Padding)
+--------------------
+Rank 28/100 | Activation: 0.1173 | Example Index: 23091 | Token Index: 198
+Token: ' who'
+Context: ... an English actress!<br /><br />I am taken aback by those >>> who<<< criticized the film for its lush scenery. That is one of the things I...
+--------------------
+Rank 29/100 | Activation: 0.1136 | Example Index: 8395 | Token Index: 270 (Likely Padding)
+--------------------
+Rank 30/100 | Activation: 0.1100 | Example Index: 1906 | Token Index: 148
+Token: ' sending'
+Context: ... and complaining about "the man". Considering most of these hippies have parents >>> sending<<< them to college, it seemed a bit silly for these privileged kids to be...
+--------------------
+Rank 31/100 | Activation: 0.1063 | Example Index: 24901 | Token Index: 489
+Token: ' have'
+Context: ... power of it is underlined little too much at one point and it should >>> have<<< been left just to the viewer's mind to be interpreted and found. Another...
+--------------------
+Rank 32/100 | Activation: 0.1036 | Example Index: 19283 | Token Index: 459 (Likely Padding)
+--------------------
+Rank 33/100 | Activation: 0.1006 | Example Index: 1818 | Token Index: 18
+Token: ' any'
+Context: ... got extremely silly when things started to happen. I couldn't care less about >>> any<<< of the characters; Susan Walters was so annoying, and the leading actor (...
+--------------------
+Rank 34/100 | Activation: 0.0994 | Example Index: 6467 | Token Index: 183
+Token: ' entertainment'
+Context: ... robbed from the very us whom got deceived by so low art work and an >>> entertainment<<< had absolutely no entertainment AT ALL!<br /><br />*Well,...
+--------------------
+Rank 35/100 | Activation: 0.0987 | Example Index: 17461 | Token Index: 121
+Token: ''t'
+Context: ... mine. Clio Laine was excellent; what a voice! I don >>>'t<<< know how I ever missed this movie. My main reason for this commentary is...
+--------------------
+Rank 36/100 | Activation: 0.0980 | Example Index: 3908 | Token Index: 6
+Token: ' Per'
+Context: ...<|begin_of_text|>Where do I start? >>> Per<<< the title of this film I expected some degree of authenticity, in the end...
+--------------------
+Rank 37/100 | Activation: 0.0977 | Example Index: 22953 | Token Index: 275 (Likely Padding)
+--------------------
+Rank 38/100 | Activation: 0.0977 | Example Index: 7800 | Token Index: 210
+Token: ' way'
+Context: ... point of this movie, and I am not connecting to the story in any >>> way<<< .......
+--------------------
+Rank 39/100 | Activation: 0.0970 | Example Index: 10367 | Token Index: 459
+Token: ' They'
+Context: ... and possibly actors, they should try another "Grindhouse" attempt. >>> They<<< will probably pull it off.<br /><br />As far as the tech...
+--------------------
+Rank 40/100 | Activation: 0.0968 | Example Index: 2030 | Token Index: 182
+Token: ' ('
+Context: ..., as the movie is very similar once the action switches to the country estate >>> (<<< just as in the other film). I was not a huge fan of THE...
+--------------------
+Rank 41/100 | Activation: 0.0961 | Example Index: 19410 | Token Index: 282
+Token: ' is'
+Context: ...yll to this list. But here he is not heroic. In fact he >>> is<<< unconsciously villainous - he murders one person and nearly kills two others....
+--------------------
+Rank 42/100 | Activation: 0.0946 | Global Index: 10383931 | Error: Could not map to example
+--------------------
+Rank 43/100 | Activation: 0.0943 | Example Index: 10289 | Token Index: 198
+Token: ' the'
+Context: ... have been writing the same jokes for the same kind of bad CBC shows since >>> the<<< 1960's.<br /><br />When you look at the CBC...
+--------------------
+Rank 44/100 | Activation: 0.0935 | Example Index: 14695 | Token Index: 117
+Token: 'ell'
+Context: ... an evil no one will ever forget. When the war is over, Camp >>>ell<<< thinks he will come home as a hero, but his true heroic stance must...
+--------------------
+Rank 45/100 | Activation: 0.0930 | Example Index: 5641 | Token Index: 189
+Token: 'an'
+Context: ... with his cousin "ann".... they're both descendants of edgar all >>>an<<< poe... or are they?!? apparently, people give a what their...
+--------------------
+Rank 46/100 | Activation: 0.0920 | Global Index: 10359563 | Error: Could not map to example
+--------------------
+Rank 47/100 | Activation: 0.0918 | Example Index: 8549 | Token Index: 232 (Likely Padding)
+--------------------
+Rank 48/100 | Activation: 0.0914 | Example Index: 20410 | Token Index: 27
+Token: ' that'
+Context: ...ild surpasses Siegfried's Death, but it also loses some of >>> that<<< film's greatness. The plot of this one is more cohesive than the first...
+--------------------
+Rank 49/100 | Activation: 0.0896 | Example Index: 1206 | Token Index: 2
+Token: ','
+Context: ...<|begin_of_text|>Well >>>,<<< let me start off by saying how utterly HILARIOUS this film is...
+--------------------
+Rank 50/100 | Activation: 0.0886 | Example Index: 11364 | Token Index: 20
+Token: ' Kel'
+Context: ... a dreadful movie. Dodgy camera work, a script with more corn than >>> Kel<<< logg's, and acting so hammy you could open a pig farm with...
+--------------------
+Rank 51/100 | Activation: 0.0876 | Example Index: 18489 | Token Index: 402 (Likely Padding)
+--------------------
+Rank 52/100 | Activation: 0.0870 | Example Index: 6268 | Token Index: 413 (Likely Padding)
+--------------------
+Rank 53/100 | Activation: 0.0863 | Example Index: 2174 | Token Index: 276
+Token: ' FOR'
+Context: ... don't even think this deserves a star...not even a half. NONE >>> FOR<<< YOU!!...
+--------------------
+Rank 54/100 | Activation: 0.0860 | Example Index: 13977 | Token Index: 457
+Token: ' and'
+Context: ... and FIGHT CLUB. <br /><br />There's something for everyone >>> and<<< if one man can provoke an argument or at least a reason to discuss a...
+--------------------
+Rank 55/100 | Activation: 0.0855 | Example Index: 11191 | Token Index: 269
+Token: ' /><'
+Context: ... which she doesn't notice when she comes into the room I guess.<br >>> /><<<< br />A few perhaps unintentionally fun moments and basically the rest of the...
+--------------------
+Rank 56/100 | Activation: 0.0845 | Example Index: 13633 | Token Index: 415
+Token: ' Warner'
+Context: ... sympathetic, wonderful characters and a fine story given A casting and production values by >>> Warner<<< Brothers. Highly recommended....
+--------------------
+Rank 57/100 | Activation: 0.0835 | Example Index: 2019 | Token Index: 15
+Token: ''s'
+Context: ...<|begin_of_text|>Shaggy & Scooby-Doo Get a Clue. It >>>'s<<< like watching a much-loved relative in the final throws of a degenerative...
+--------------------
+Rank 58/100 | Activation: 0.0834 | Example Index: 19743 | Token Index: 349 (Likely Padding)
+--------------------
+Rank 59/100 | Activation: 0.0828 | Example Index: 17652 | Token Index: 304 (Likely Padding)
+--------------------
+Rank 60/100 | Activation: 0.0825 | Example Index: 21217 | Token Index: 157
+Token: 'Im'
+Context: ... a really bizarre ending) or that the segments are in the right order ( >>>Im<<< amura's, being the only one not referring directly to the Twin Towers,...
+--------------------
+Rank 61/100 | Activation: 0.0814 | Example Index: 24143 | Token Index: 220 (Likely Padding)
+--------------------
+Rank 62/100 | Activation: 0.0810 | Example Index: 23332 | Token Index: 190
+Token: ' price'
+Context: ... look as delicious undressed as Ms. Welles. It's worth the >>> price<<< alone to see Ms. Welles look at herself in the mirror as if...
+--------------------
+Rank 63/100 | Activation: 0.0809 | Example Index: 21546 | Token Index: 153 (Likely Padding)
+--------------------
+Rank 64/100 | Activation: 0.0794 | Example Index: 8407 | Token Index: 436
+Token: ' someone'
+Context: ... is about to emerge! <br /><br />And near the end, >>> someone<<< thought of a twist! Just when we thought it was all totally predictable!...
+--------------------
+Rank 65/100 | Activation: 0.0793 | Example Index: 15133 | Token Index: 251
+Token: ' but'
+Context: ... the end to be a hoax, ostensibly to raise awareness of organ donation, >>> but<<< are we getting too close for comfort?...
+--------------------
+Rank 66/100 | Activation: 0.0792 | Example Index: 18817 | Token Index: 309 (Likely Padding)
+--------------------
+Rank 67/100 | Activation: 0.0790 | Example Index: 6158 | Token Index: 221
+Token: ' pretending'
+Context: ... of half-escape were not thrilling but irritating and weak. Recall Marsden >>> pretending<<< to try keys in the door and then throwing them down: "They don...
+--------------------
+Rank 68/100 | Activation: 0.0784 | Example Index: 9375 | Token Index: 296
+Token: ' knew'
+Context: ... the woods, alone, looking for the town. Smart move. She probably >>> knew<<< about the lonely virgin walking alone in the woods part, but just didn't...
+--------------------
+Rank 69/100 | Activation: 0.0782 | Example Index: 22757 | Token Index: 124
+Token: ' even'
+Context: ... them, i would.I have no idea what they went through, i cant >>> even<<< imagine it. After watching this movie, i was in tears, and had...
+--------------------
+Rank 70/100 | Activation: 0.0772 | Example Index: 19018 | Token Index: 214
+Token: ' job'
+Context: ... cinematography. The production values are high, and this does a fairly convincing >>> job<<< of transporting us back to the 50's. This is the only film...
+--------------------
+Rank 71/100 | Activation: 0.0768 | Example Index: 16513 | Token Index: 429 (Likely Padding)
+--------------------
+Rank 72/100 | Activation: 0.0766 | Example Index: 17943 | Token Index: 459
+Token: ' British'
+Context: ... slice it, strangling people isn't a nice thing to do and the >>> British<<< had their point here also. When I watch Gunga Din, I think...
+--------------------
+Rank 73/100 | Activation: 0.0740 | Example Index: 21784 | Token Index: 461
+Token: ' over'
+Context: ... so on. These Tehrani girls are stubborn and smart and they walk all >>> over<<< the uptight rural lieutenant in charge of them (Safar Samand...
+--------------------
+Rank 74/100 | Activation: 0.0733 | Example Index: 10193 | Token Index: 430 (Likely Padding)
+--------------------
+Rank 75/100 | Activation: 0.0732 | Example Index: 9149 | Token Index: 169
+Token: ' dozen'
+Context: ... reviews this movie has here, I suspect the writer must have a half a >>> dozen<<< IMDb accounts. Anyone who says this film is even watchable as anything other...
+--------------------
+Rank 76/100 | Activation: 0.0731 | Example Index: 23207 | Token Index: 331
+Token: ' ***'
+Context: ... stories differed little from real life folks who never get a chance like this. >>> ***<<< of 4 stars....
+--------------------
+Rank 77/100 | Activation: 0.0727 | Example Index: 17040 | Token Index: 2
+Token: ' could'
+Context: ...<|begin_of_text|>This >>> could<<< be a 10 if it wasn't for the quite predictable and hollywood...
+--------------------
+Rank 78/100 | Activation: 0.0725 | Example Index: 17381 | Token Index: 374 (Likely Padding)
+--------------------
+Rank 79/100 | Activation: 0.0709 | Example Index: 11451 | Token Index: 250 (Likely Padding)
+--------------------
+Rank 80/100 | Activation: 0.0708 | Example Index: 6948 | Token Index: 224
+Token: ' title'
+Context: ... the card sharks was mildly humorous as well.<br /><br />The opening >>> title<<< music sung by Gene Roman sounds like a fair Bobby Goldsboro-like early...
+--------------------
+Rank 81/100 | Activation: 0.0691 | Example Index: 22534 | Token Index: 272 (Likely Padding)
+--------------------
+Rank 82/100 | Activation: 0.0684 | Example Index: 21682 | Token Index: 389
+Token: ' and'
+Context: ... that Prince's biggest song of the film is written by Wendy, lisa >>> and<<< Princes wife beating musical father!<br /><br />Are Prince and the...
+--------------------
+Rank 83/100 | Activation: 0.0682 | Example Index: 22410 | Token Index: 165
+Token: ' a'
+Context: ... use her good looks if needed.<br /><br />They get involved with >>> a<<< scam that Clarmont, a bailsman, has going. Along...
+--------------------
+Rank 84/100 | Activation: 0.0676 | Example Index: 2903 | Token Index: 255
+Token: ' criminal'
+Context: ... watching Dreyfuss's girlfriend while Dreyfuss was at a >>> criminal<<< hospital the movie starts off with some decent dialog after the opening credits. But...
+--------------------
+Rank 85/100 | Activation: 0.0672 | Example Index: 22612 | Token Index: 258 (Likely Padding)
+--------------------
+Rank 86/100 | Activation: 0.0671 | Example Index: 17755 | Token Index: 453 (Likely Padding)
+--------------------
+Rank 87/100 | Activation: 0.0668 | Example Index: 2258 | Token Index: 202
+Token: ' four'
+Context: ... certainly not in their ranks. I can't believe Roger Ebert gave it >>> four<<< stars, for there is no way this film could ever deserve such a high...
+--------------------
+Rank 88/100 | Activation: 0.0665 | Example Index: 7359 | Token Index: 245
+Token: ' on'
+Context: ... beginning of the film. (Perhaps this is why some of the screen captures >>> on<<< the packaging look to be created with computer graphics rather than being actual screen captures...
+--------------------
+Rank 89/100 | Activation: 0.0663 | Example Index: 417 | Token Index: 28
+Token: ' the'
+Context: .... I've only seen perhaps eight of them, but Comet over Broadway is >>> the<<< worst so far. The very best thing about it is that it's short...
+--------------------
+Rank 90/100 | Activation: 0.0659 | Example Index: 10894 | Token Index: 36
+Token: ' Some'
+Context: ... This however, wasn't even a guilty pleasure, it was just crap. >>> Some<<< guy, vince offer, who is conceited enough to make himself the...
+--------------------
+Rank 91/100 | Activation: 0.0656 | Example Index: 9651 | Token Index: 159
+Token: ' the'
+Context: ... to finish it. The dialog was bad. Women spoke stiltedly and >>> the<<< men were caricatures. And two of the supposedly Japanese women looked Chinese,...
+--------------------
+Rank 92/100 | Activation: 0.0654 | Example Index: 9114 | Token Index: 148
+Token: ' brings'
+Context: ... any believability.<br /><br />Worse still, HotD >>> brings<<< nothing new to the genre, and repeats the same plot twists and character reactions...
+--------------------
+Rank 93/100 | Activation: 0.0654 | Example Index: 17338 | Token Index: 92
+Token: ' if'
+Context: ... sure Zack could have coped. The Soulhunter plot is fascinating, especially >>> if<<< you believe in heaven as Zack does. The humour supplements it nicely. ...
+--------------------
+Rank 94/100 | Activation: 0.0651 | Example Index: 6054 | Token Index: 52
+Token: ' if'
+Context: ... an astonishingly cheap-looking movie, and at times you may find yourself wondering >>> if<<< it isn't just a prank someone is pulling on you. The most positive...
+--------------------
+Rank 95/100 | Activation: 0.0649 | Example Index: 11846 | Token Index: 353 (Likely Padding)
+--------------------
+Rank 96/100 | Activation: 0.0642 | Example Index: 17193 | Token Index: 447 (Likely Padding)
+--------------------
+Rank 97/100 | Activation: 0.0635 | Example Index: 2834 | Token Index: 202 (Likely Padding)
+--------------------
+Rank 98/100 | Activation: 0.0635 | Example Index: 23867 | Token Index: 142
+Token: ' in'
+Context: ... special-effects don't bother me, as that was all that they had back >>> in<<< the 1930s.<br /><br />Among some, this film...
+--------------------
+Rank 99/100 | Activation: 0.0634 | Example Index: 23141 | Token Index: 189
+Token: ' the'
+Context: ... fall, you see firemen reacting to the unsettling sound of people landing above >>> the<<< lobby. It is a sight you will not soon forget.<br /><br...
+--------------------
+Rank 100/100 | Activation: 0.0629 | Example Index: 4726 | Token Index: 431
+Token: ' on'
+Context: ... />Throw in some slow, plodding direction (this film drags >>> on<<< for 2 hours), some hopelessly daft and clichéd dialogue such...
+--------------------

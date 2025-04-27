@@ -1,0 +1,323 @@
+--- Max Activating Examples for Feature 8377 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/100 | Activation: 0.5216 | Example Index: 22234 | Token Index: 124 (Likely Padding)
+--------------------
+Rank 2/100 | Activation: 0.3443 | Example Index: 9296 | Token Index: 207
+Token: ' "'
+Context: .... JUST LIKE A MAN! My mothers favorite part was when they gave the >>> "<<< Spawn of the Devil Child" her very own Rottweiler. My...
+--------------------
+Rank 3/100 | Activation: 0.3417 | Example Index: 14086 | Token Index: 129
+Token: ' would'
+Context: ... one of the most unique artists out there. It's funny, because who >>> would<<< have thought of Cher as such a naturally gifted actress? She is heads above...
+--------------------
+Rank 4/100 | Activation: 0.2888 | Example Index: 2158 | Token Index: 218 (Likely Padding)
+--------------------
+Rank 5/100 | Activation: 0.2239 | Example Index: 22701 | Token Index: 481 (Likely Padding)
+--------------------
+Rank 6/100 | Activation: 0.2198 | Example Index: 14736 | Token Index: 306 (Likely Padding)
+--------------------
+Rank 7/100 | Activation: 0.2153 | Example Index: 9518 | Token Index: 166 (Likely Padding)
+--------------------
+Rank 8/100 | Activation: 0.2143 | Example Index: 13291 | Token Index: 421
+Token: ' beating'
+Context: ... a cornered dog who only really seems at home when he's receiving a >>> beating<<< or concocting the rip-off that is likely to get him killed.<...
+--------------------
+Rank 9/100 | Activation: 0.2129 | Example Index: 1428 | Token Index: 384 (Likely Padding)
+--------------------
+Rank 10/100 | Activation: 0.2040 | Example Index: 1091 | Token Index: 283 (Likely Padding)
+--------------------
+Rank 11/100 | Activation: 0.1978 | Example Index: 10944 | Token Index: 161
+Token: ' laugh'
+Context: ... have the urge to press the fast forward button!, plus The dialog is especially >>> laugh<<< able!.There is a cool bar scene that i really liked, but once...
+--------------------
+Rank 12/100 | Activation: 0.1923 | Example Index: 11998 | Token Index: 169 (Likely Padding)
+--------------------
+Rank 13/100 | Activation: 0.1904 | Example Index: 1985 | Token Index: 417 (Likely Padding)
+--------------------
+Rank 14/100 | Activation: 0.1893 | Example Index: 14169 | Token Index: 183
+Token: ' to'
+Context: ... I agree with a previous comment: Natasha Richardson definitely had some plastic job done >>> to<<< her face. She certainly does not look like how I remember her from previous...
+--------------------
+Rank 15/100 | Activation: 0.1850 | Example Index: 11777 | Token Index: 170
+Token: ' agent'
+Context: ... of psycho Vietnam vets? As a pill-popping delusional survivor of >>> agent<<< "pink" are we to think America is a "Land of Plenty"...
+--------------------
+Rank 16/100 | Activation: 0.1787 | Example Index: 4657 | Token Index: 484 (Likely Padding)
+--------------------
+Rank 17/100 | Activation: 0.1725 | Example Index: 2256 | Token Index: 16
+Token: ' saw'
+Context: ...Trite, clichéd dialog and plotting (the same kind of stuff we >>> saw<<< all through the 1980s fantasy movies), hokey music, and...
+--------------------
+Rank 18/100 | Activation: 0.1707 | Example Index: 9719 | Token Index: 86
+Token: ' st'
+Context: ... of the worst makeup ever captured on film here. I can just imagine some >>> st<<< oned Italian spreading glue on naked Annik Borel (who plays Dani...
+--------------------
+Rank 19/100 | Activation: 0.1644 | Example Index: 10869 | Token Index: 507 (Likely Padding)
+--------------------
+Rank 20/100 | Activation: 0.1620 | Example Index: 13071 | Token Index: 137
+Token: ' be'
+Context: ....<br /><br />There is no downside to this movie. You will >>> be<<< entertained the whole way through. The acting, directing, and script is all...
+--------------------
+Rank 21/100 | Activation: 0.1607 | Example Index: 20286 | Token Index: 466 (Likely Padding)
+--------------------
+Rank 22/100 | Activation: 0.1601 | Example Index: 13064 | Token Index: 352
+Token: ' out'
+Context: ... in Montana, by the the Blackfoot river, where the film is played >>> out<<< . It has the capacity to draw you in, to enthrall you...
+--------------------
+Rank 23/100 | Activation: 0.1599 | Example Index: 24604 | Token Index: 73
+Token: ' liked'
+Context: ... rating it 10 stars here. It is just that good. What I >>> liked<<< about it were the opening and closing themes, and of course Stephen J....
+--------------------
+Rank 24/100 | Activation: 0.1597 | Example Index: 13632 | Token Index: 56
+Token: ' as'
+Context: ... get me wrong I do love the movies we have today just not as much >>> as<<< I love movies of the 40s and 50s) Anyways...
+--------------------
+Rank 25/100 | Activation: 0.1582 | Example Index: 14114 | Token Index: 228
+Token: ' not'
+Context: ... an orthodox Jewish lifestyle apparently hitherto in long abeyance, Ruth >>> not<<< only "sits shivah" (the Jews' week-long mourning...
+--------------------
+Rank 26/100 | Activation: 0.1568 | Example Index: 16872 | Token Index: 105
+Token: ' then'
+Context: ... this performance instead of his role in `Singin' in the Rain', >>> then<<< there had to be something wrong with the behind the scenes rigging systems at...
+--------------------
+Rank 27/100 | Activation: 0.1553 | Example Index: 19474 | Token Index: 77
+Token: ' us'
+Context: ... first season.<br /><br />This Sci Fi drama is sure to please >>> us<<< fans who love a mix of both genres.<br /><br />Eric St...
+--------------------
+Rank 28/100 | Activation: 0.1539 | Example Index: 15283 | Token Index: 477
+Token: ' the'
+Context: ...br /><br />It's these final scenes that carry the most conviction and >>> the<<< most interest as the boys are told they've made numerous mistakes and left a...
+--------------------
+Rank 29/100 | Activation: 0.1531 | Example Index: 17767 | Token Index: 192 (Likely Padding)
+--------------------
+Rank 30/100 | Activation: 0.1522 | Example Index: 4391 | Token Index: 474 (Likely Padding)
+--------------------
+Rank 31/100 | Activation: 0.1518 | Example Index: 10782 | Token Index: 346 (Likely Padding)
+--------------------
+Rank 32/100 | Activation: 0.1509 | Example Index: 4405 | Token Index: 75 (Likely Padding)
+--------------------
+Rank 33/100 | Activation: 0.1508 | Example Index: 11441 | Token Index: 451
+Token: ' I'
+Context: ... at least none that are as strong as this dumb film makes out. Maybe >>> I<<< 'm being a bit harsh, I mean it's only a film after all...
+--------------------
+Rank 34/100 | Activation: 0.1503 | Example Index: 6152 | Token Index: 40
+Token: ' a'
+Context: ...ppy and stupid low-budget horror film about some teenage girls spending the weekend at >>> a<<< mansion.The professor's evil assistant lures the girls into a bizarre scheme to...
+--------------------
+Rank 35/100 | Activation: 0.1483 | Example Index: 2399 | Token Index: 154
+Token: ' include'
+Context: ... story here: 3 losers stumble upon each other with their collective problems that >>> include<<< mental illness, alcoholism, laziness, indebtedness etc and together they...
+--------------------
+Rank 36/100 | Activation: 0.1463 | Example Index: 16497 | Token Index: 84
+Token: ' language'
+Context: ... but now that it's here check it out! And stick with the original >>> language<<< ; the dub changed my impressions of the characters somewhat, which is something that...
+--------------------
+Rank 37/100 | Activation: 0.1444 | Example Index: 23599 | Token Index: 291
+Token: ' inmate'
+Context: ... a businessman sentenced to do time for fraud, the elderly and "wise" >>> inmate<<< sadistically killed his wife and then there's a crazy transvestite and...
+--------------------
+Rank 38/100 | Activation: 0.1434 | Example Index: 6424 | Token Index: 232
+Token: ' tiny'
+Context: ... cerebral that it leaves no room for any hint of emotion, even to the >>> tiny<<< , quite rudimentary extent of allowing us a connection with its characters.<br...
+--------------------
+Rank 39/100 | Activation: 0.1417 | Global Index: 10527954 | Error: Could not map to example
+--------------------
+Rank 40/100 | Activation: 0.1401 | Example Index: 4399 | Token Index: 148
+Token: ' comes'
+Context: ... it is. The only impetus in the show - sorry, movie - >>> comes<<< from Danielle getting nastier and nastier, and the only surprise comes from...
+--------------------
+Rank 41/100 | Activation: 0.1374 | Example Index: 21112 | Token Index: 299
+Token: ' through'
+Context: ... & suspense with light-headed bits of comedy, like the grotesque car chase >>> through<<< the narrow French mountain roads for example. The build up towards the typical mafia...
+--------------------
+Rank 42/100 | Activation: 0.1349 | Example Index: 11426 | Token Index: 190
+Token: ' unf'
+Context: ... on a mission beating around the bush to discover exactly what is happening on this >>> unf<<< riendly island with its strange inhabitants. But in truth, you will not bother...
+--------------------
+Rank 43/100 | Activation: 0.1335 | Global Index: 10444614 | Error: Could not map to example
+--------------------
+Rank 44/100 | Activation: 0.1307 | Example Index: 11957 | Token Index: 401
+Token: ' this'
+Context: ... /><br />Jane Frazee does the honors as the female lead in >>> this<<< picture, as she would in four other films opposite Roy in the 194...
+--------------------
+Rank 45/100 | Activation: 0.1305 | Example Index: 19127 | Token Index: 168
+Token: ' what'
+Context: ... from not resembling the Nancy Drew of the Books, and trying to figure out >>> what<<< decade we're in. (like, what is that CAR, Anyway?)...
+--------------------
+Rank 46/100 | Activation: 0.1286 | Example Index: 11825 | Token Index: 89
+Token: ' these'
+Context: ... she was thrown by the accent, or what. There was no chemistry between >>> these<<< two. <br /><br />And the girl Modine was in love...
+--------------------
+Rank 47/100 | Activation: 0.1285 | Example Index: 3657 | Token Index: 39
+Token: 'ically'
+Context: ... complex psychoanalytical prism of a young woman, France (herein symbol >>>ically<<< representing her nation). It is an often engaging and challenging portrait of a young...
+--------------------
+Rank 48/100 | Activation: 0.1272 | Example Index: 15487 | Token Index: 413
+Token: ' of'
+Context: ... - but she can't really. She's an aristocrat - the daughter >>> of<<< a Press lord. It was Bacall's second film, and (sad...
+--------------------
+Rank 49/100 | Activation: 0.1268 | Example Index: 18884 | Token Index: 67
+Token: ' and'
+Context: ... movie including 3 academy award winners nicolas cage, robert duvall >>> and<<< the very hot anjolina jolie. other than the lame stunt at...
+--------------------
+Rank 50/100 | Activation: 0.1261 | Example Index: 8936 | Token Index: 390 (Likely Padding)
+--------------------
+Rank 51/100 | Activation: 0.1259 | Example Index: 20588 | Token Index: 146 (Likely Padding)
+--------------------
+Rank 52/100 | Activation: 0.1256 | Example Index: 73 | Token Index: 139
+Token: ' ''
+Context: ... smokin' hottie of a woman Goldie Hawn was in the >>> '<<< 80s. Kurt Russell must have had a fun life....
+--------------------
+Rank 53/100 | Activation: 0.1255 | Example Index: 21378 | Token Index: 437 (Likely Padding)
+--------------------
+Rank 54/100 | Activation: 0.1251 | Example Index: 12601 | Token Index: 140
+Token: ' with'
+Context: ... shy and awkward miller's son, Corin, who falls in love >>> with<<< beautiful and the bold Princess Vera. This is a really fun, enjoyable,...
+--------------------
+Rank 55/100 | Activation: 0.1249 | Example Index: 6354 | Token Index: 387 (Likely Padding)
+--------------------
+Rank 56/100 | Activation: 0.1234 | Example Index: 19441 | Token Index: 44
+Token: ' Woody'
+Context: ...br /><br />What I really want to point out is the acting on >>> Woody<<< Harrelson behalf, he may not be in many parts of the film...
+--------------------
+Rank 57/100 | Activation: 0.1224 | Example Index: 18819 | Token Index: 169 (Likely Padding)
+--------------------
+Rank 58/100 | Activation: 0.1213 | Example Index: 4356 | Token Index: 106
+Token: ' completely'
+Context: ... of those Lifetime movies that say "based on a true story" but are >>> completely<<< fictional. there is none of the emotion or depth of the book, just...
+--------------------
+Rank 59/100 | Activation: 0.1191 | Global Index: 10364251 | Error: Could not map to example
+--------------------
+Rank 60/100 | Activation: 0.1170 | Example Index: 2991 | Token Index: 441
+Token: ' the'
+Context: ... others - I say put this next to Gandhi or the Godfather, even >>> the<<< original trilogy of star wars or the lord of the rings; then look me...
+--------------------
+Rank 61/100 | Activation: 0.1165 | Example Index: 23592 | Token Index: 344
+Token: ' from'
+Context: ... have very complex and different personalities and a lot of the tension and suspense comes >>> from<<< their constant clash of personalities. The story's supernatural element is very well-hand...
+--------------------
+Rank 62/100 | Activation: 0.1164 | Example Index: 7511 | Token Index: 346
+Token: '.'
+Context: ... too familiar) this movie could have been watchable. But it isn't >>>.<<< Don't watch it....
+--------------------
+Rank 63/100 | Activation: 0.1163 | Example Index: 14731 | Token Index: 253 (Likely Padding)
+--------------------
+Rank 64/100 | Activation: 0.1134 | Example Index: 22537 | Token Index: 328
+Token: ' after'
+Context: ... constantly in survival mode in a society that treats poor girls like garbage. And >>> after<<< learning that her previous seven owners have physically and mentally abused her, her fierce...
+--------------------
+Rank 65/100 | Activation: 0.1134 | Example Index: 18306 | Token Index: 383 (Likely Padding)
+--------------------
+Rank 66/100 | Activation: 0.1133 | Example Index: 14236 | Token Index: 72
+Token: ' that'
+Context: ... a very interesting 11 minute short, a fascinating piece of Gothic melodrama >>> that<<< even drifts slightly into the realm of early horror. The simple narrative was...
+--------------------
+Rank 67/100 | Activation: 0.1121 | Example Index: 4787 | Token Index: 56
+Token: 'witch'
+Context: ... a creepy feel as it deals with a coven of satanists/ >>>witch<<< es in a small town and a young woman's attempt to escape them....
+--------------------
+Rank 68/100 | Activation: 0.1117 | Example Index: 14353 | Token Index: 342
+Token: ' both'
+Context: ... to wait another ten years before they receive an Oscar or anything else. They >>> both<<< will have to wait until they direct or star in a movie that perpetuates...
+--------------------
+Rank 69/100 | Activation: 0.1114 | Global Index: 10578166 | Error: Could not map to example
+--------------------
+Rank 70/100 | Activation: 0.1109 | Example Index: 24292 | Token Index: 323
+Token: ' brilliant'
+Context: ... between the brothers, I feel that the sincerity of Close to Leo and the >>> brilliant<<< performances by Lespert and Mignard more than tip the scales in its...
+--------------------
+Rank 71/100 | Activation: 0.1106 | Example Index: 7152 | Token Index: 459
+Token: 'ING'
+Context: ... great. The title track is also awesome. GUYS, AVOID WATCH >>>ING<<< THIS MOVIE....
+--------------------
+Rank 72/100 | Activation: 0.1098 | Example Index: 11 | Token Index: 492 (Likely Padding)
+--------------------
+Rank 73/100 | Activation: 0.1083 | Example Index: 16439 | Token Index: 146 (Likely Padding)
+--------------------
+Rank 74/100 | Activation: 0.1081 | Example Index: 20261 | Token Index: 379
+Token: ' character'
+Context: ... are always trying to figure out "dames." The cook is a great >>> character<<< , with his obsession for hooch. Robbie the Robot has much more...
+--------------------
+Rank 75/100 | Activation: 0.1077 | Example Index: 4313 | Token Index: 217 (Likely Padding)
+--------------------
+Rank 76/100 | Activation: 0.1071 | Example Index: 4414 | Token Index: 198
+Token: ' real'
+Context: ...'s emotional and intellectual bigotry of faith. But it turns out the bullets were >>> real<<< and the story has tragedy...the tragedy of loss of life (besides...
+--------------------
+Rank 77/100 | Activation: 0.1064 | Example Index: 13639 | Token Index: 243 (Likely Padding)
+--------------------
+Rank 78/100 | Activation: 0.1057 | Example Index: 20287 | Token Index: 451 (Likely Padding)
+--------------------
+Rank 79/100 | Activation: 0.1053 | Example Index: 13376 | Token Index: 59 (Likely Padding)
+--------------------
+Rank 80/100 | Activation: 0.1040 | Example Index: 22423 | Token Index: 253
+Token: ' var'
+Context: ...qatsi" about it as it dazzles us with its richly >>> var<<< iegated kaleidoscope of images and patterns. Indeed, director Jennifer Ba...
+--------------------
+Rank 81/100 | Activation: 0.1034 | Global Index: 10356181 | Error: Could not map to example
+--------------------
+Rank 82/100 | Activation: 0.1032 | Example Index: 7190 | Token Index: 30
+Token: ''s'
+Context: ... working in Italy),was made when she was 24 years old,and it >>>'s<<< certainly safe to say that she made a stunning debut in 1957's...
+--------------------
+Rank 83/100 | Activation: 0.1030 | Example Index: 19816 | Token Index: 42
+Token: ' smiles'
+Context: ... that does not dwell for a moment. Some very good acting and some wonderful >>> smiles<<< as well....
+--------------------
+Rank 84/100 | Activation: 0.1007 | Example Index: 9563 | Token Index: 124 (Likely Padding)
+--------------------
+Rank 85/100 | Activation: 0.1007 | Example Index: 24093 | Token Index: 371 (Likely Padding)
+--------------------
+Rank 86/100 | Activation: 0.1007 | Example Index: 6552 | Token Index: 174
+Token: ' waiting'
+Context: ....<br /><br />Watching the movie in a theatre, I found myself >>> waiting<<< for the intermission, and then for the ending. Some viewers were wise...
+--------------------
+Rank 87/100 | Activation: 0.0994 | Example Index: 20490 | Token Index: 417 (Likely Padding)
+--------------------
+Rank 88/100 | Activation: 0.0989 | Example Index: 16578 | Token Index: 353
+Token: 'aved'
+Context: ... of their individual reasons. Whatever she's done, she's a recently bere >>>aved<<< widow leaving for the lonely home she shared with her husband for 30 years...
+--------------------
+Rank 89/100 | Activation: 0.0984 | Example Index: 12693 | Token Index: 386
+Token: ' can'
+Context: ... the director tries everything to get her to cry and when he succeeds, she >>> can<<< 't stop!!! Her new leading man, Andre (Paul Ralli) convin...
+--------------------
+Rank 90/100 | Activation: 0.0980 | Example Index: 5422 | Token Index: 237
+Token: ' rights'
+Context: ...br />Why wasn't the viewer informed that the victim's mother sold interview >>> rights<<< to print and television tabloids, parading her adolescent son on "...
+--------------------
+Rank 91/100 | Activation: 0.0977 | Example Index: 24100 | Token Index: 507
+Token: ' he'
+Context: ... might seem trite that he immediately takes the dog up and adopts it since >>> he<<< just left home because...
+--------------------
+Rank 92/100 | Activation: 0.0977 | Example Index: 2392 | Token Index: 68
+Token: ' local'
+Context: ... than the usual dramas about struggling farmer families or long feature slapstick movies of >>> local<<< comedians  everybody feels obliged to love it and even responsible to spread...
+--------------------
+Rank 93/100 | Activation: 0.0976 | Example Index: 5825 | Token Index: 103
+Token: ' to'
+Context: .... Being a maverick within his circle, he begins to pay people >>> to<<< find bodies for him to study and test on. Desperate sleazeb...
+--------------------
+Rank 94/100 | Activation: 0.0975 | Example Index: 8593 | Token Index: 305
+Token: ' hateful'
+Context: ... problems as most American will agree, but that is no reason to be so >>> hateful<<< in public displays seen around the world. Perhaps the trend has now been set...
+--------------------
+Rank 95/100 | Activation: 0.0975 | Example Index: 20494 | Token Index: 422 (Likely Padding)
+--------------------
+Rank 96/100 | Activation: 0.0971 | Example Index: 11123 | Token Index: 484
+Token: ' was'
+Context: ... Pet Delia Sheppard is in her role. She stole every scene she >>> was<<< in and easily gave the standout performance here....
+--------------------
+Rank 97/100 | Activation: 0.0968 | Example Index: 7200 | Token Index: 164
+Token: ' become'
+Context: ...au celebrating, and that's it. We never find out why Shaw has >>> become<<< a priest (if he really is), we never find out what happens to...
+--------------------
+Rank 98/100 | Activation: 0.0963 | Example Index: 14028 | Token Index: 33
+Token: ' one'
+Context: ... I generally like to see documentaries, but I can't remember to have seen >>> one<<< that is better than 'Earth'. I knew some of the scenes from Youtube...
+--------------------
+Rank 99/100 | Activation: 0.0960 | Example Index: 532 | Token Index: 312 (Likely Padding)
+--------------------
+Rank 100/100 | Activation: 0.0942 | Example Index: 21440 | Token Index: 409 (Likely Padding)
+--------------------

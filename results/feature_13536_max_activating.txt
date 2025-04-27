@@ -1,0 +1,313 @@
+--- Max Activating Examples for Feature 13536 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/100 | Activation: 0.2814 | Example Index: 8954 | Token Index: 344
+Token: ' after'
+Context: ... walk out Sunday morning, but for some reason Byrne gets home late at night >>> after<<< his wife has gone to bed. Then first thing the next morning the cops...
+--------------------
+Rank 2/100 | Activation: 0.2365 | Example Index: 16831 | Token Index: 315 (Likely Padding)
+--------------------
+Rank 3/100 | Activation: 0.1559 | Global Index: 10267119 | Error: Could not map to example
+--------------------
+Rank 4/100 | Activation: 0.1534 | Global Index: 10621351 | Error: Could not map to example
+--------------------
+Rank 5/100 | Activation: 0.1357 | Global Index: 10620131 | Error: Could not map to example
+--------------------
+Rank 6/100 | Activation: 0.1340 | Global Index: 10185208 | Error: Could not map to example
+--------------------
+Rank 7/100 | Activation: 0.1254 | Example Index: 9296 | Token Index: 207
+Token: ' "'
+Context: .... JUST LIKE A MAN! My mothers favorite part was when they gave the >>> "<<< Spawn of the Devil Child" her very own Rottweiler. My...
+--------------------
+Rank 8/100 | Activation: 0.1247 | Example Index: 14721 | Token Index: 433 (Likely Padding)
+--------------------
+Rank 9/100 | Activation: 0.1235 | Example Index: 2317 | Token Index: 176 (Likely Padding)
+--------------------
+Rank 10/100 | Activation: 0.1191 | Example Index: 14946 | Token Index: 399 (Likely Padding)
+--------------------
+Rank 11/100 | Activation: 0.1136 | Example Index: 6799 | Token Index: 73
+Token: ' utterly'
+Context: ..., and especially timing on line delivery was so abhorrent as make Judges >>> utterly<<< unbearable.<br /><br />Judges was advertised as being like a modern...
+--------------------
+Rank 12/100 | Activation: 0.1069 | Example Index: 22954 | Token Index: 182
+Token: ' Abu'
+Context: ... princess. during their journey they encounter everything from sarcastic Genies that takes >>> Abu<<< on a flight through the clouds, a giant spider that's really hungry,...
+--------------------
+Rank 13/100 | Activation: 0.1045 | Example Index: 10880 | Token Index: 83
+Token: ' and'
+Context: ... Jack Frost (#2 Worst), but I must admit, they are all close >>> and<<< all TERRIBLE! Really, nothing of this movie is funny, or...
+--------------------
+Rank 14/100 | Activation: 0.1042 | Example Index: 24638 | Token Index: 19
+Token: ' way'
+Context: ... story that will give you the creeps and some pretty fair scares along the >>> way<<< . The story unfolds slowly, building atmosphere all the way until you're ready...
+--------------------
+Rank 15/100 | Activation: 0.1027 | Example Index: 14945 | Token Index: 428 (Likely Padding)
+--------------------
+Rank 16/100 | Activation: 0.1011 | Example Index: 8858 | Token Index: 458
+Token: ' the'
+Context: ... most expensive movie ever made because so many films followed which tried and failed in >>> the<<< worst way to duplicate its success. Sixtyish, once honored directors like...
+--------------------
+Rank 17/100 | Activation: 0.1008 | Example Index: 6909 | Token Index: 145
+Token: 'el'
+Context: ... by the pharaoh's family at the same time Moses was. Hersch >>>el<<< 's birth father, the late James Coco, becomes Herschel's slave...
+--------------------
+Rank 18/100 | Activation: 0.1008 | Example Index: 4261 | Token Index: 433
+Token: ' and'
+Context: ... to the podium. What a bunch of arrogant snobs the Academy are becoming >>> and<<< I quite agree with the comments that this format is disgraceful and if it...
+--------------------
+Rank 19/100 | Activation: 0.1002 | Example Index: 18933 | Token Index: 124
+Token: ' focus'
+Context: ... in the allies fortunes. Being a British produced documentary this 26 part series >>> focus<<< is mainly on Britain, but Russia and America's contribution are not skimmed...
+--------------------
+Rank 20/100 | Activation: 0.0992 | Example Index: 9189 | Token Index: 133
+Token: ''ve'
+Context: ... I'm pretending she doesn't exist) remains one of the worst actors I >>>'ve<<< ever seen, only eclipsed by the guy who played Sebastian. The story...
+--------------------
+Rank 21/100 | Activation: 0.0988 | Example Index: 8299 | Token Index: 445 (Likely Padding)
+--------------------
+Rank 22/100 | Activation: 0.0965 | Example Index: 21074 | Token Index: 344 (Likely Padding)
+--------------------
+Rank 23/100 | Activation: 0.0909 | Example Index: 21643 | Token Index: 276 (Likely Padding)
+--------------------
+Rank 24/100 | Activation: 0.0901 | Example Index: 14285 | Token Index: 407 (Likely Padding)
+--------------------
+Rank 25/100 | Activation: 0.0883 | Global Index: 10258034 | Error: Could not map to example
+--------------------
+Rank 26/100 | Activation: 0.0862 | Example Index: 5197 | Token Index: 256 (Likely Padding)
+--------------------
+Rank 27/100 | Activation: 0.0862 | Example Index: 4825 | Token Index: 70
+Token: ' it'
+Context: ... blood and gore, but because this film had little else going for it, >>> it<<< should have shown the actual killing more. Most were off-camera, minimizing the...
+--------------------
+Rank 28/100 | Activation: 0.0797 | Example Index: 21476 | Token Index: 237 (Likely Padding)
+--------------------
+Rank 29/100 | Activation: 0.0789 | Example Index: 9094 | Token Index: 283
+Token: ' Anti'
+Context: ... to enter a world of awesomeness. No! This is an >>> Anti<<< -Role-playing movie that must have been made by some Religious folk (the...
+--------------------
+Rank 30/100 | Activation: 0.0779 | Example Index: 13908 | Token Index: 100
+Token: ' through'
+Context: ... cast gave good performances and Dick Van Dyke's entertainer roots shone >>> through<<< with the use of magic, dance and humor. The best aspects of DM...
+--------------------
+Rank 31/100 | Activation: 0.0778 | Example Index: 14550 | Token Index: 299 (Likely Padding)
+--------------------
+Rank 32/100 | Activation: 0.0769 | Example Index: 18149 | Token Index: 466 (Likely Padding)
+--------------------
+Rank 33/100 | Activation: 0.0763 | Example Index: 4290 | Token Index: 327 (Likely Padding)
+--------------------
+Rank 34/100 | Activation: 0.0758 | Example Index: 22594 | Token Index: 67
+Token: 'coat'
+Context: ... The take on lawyers is also superb. After being accused of being a turn >>>coat<<< , selling out his boss, and being dishonest the lawyer of Pepto Bolt...
+--------------------
+Rank 35/100 | Activation: 0.0757 | Example Index: 22952 | Token Index: 500
+Token: ' can'
+Context: ... the porn they prefer. One of my Top 10 film favourites, I >>> can<<< 't recommend this too much  may it be shown...
+--------------------
+Rank 36/100 | Activation: 0.0747 | Example Index: 20512 | Token Index: 162
+Token: ' he'
+Context: ... Creasy goes through due to the loss of Pita and the sheer passion >>> he<<< has for getting her back, you can't help but side with Creasy...
+--------------------
+Rank 37/100 | Activation: 0.0727 | Example Index: 24236 | Token Index: 315 (Likely Padding)
+--------------------
+Rank 38/100 | Activation: 0.0701 | Example Index: 6270 | Token Index: 506 (Likely Padding)
+--------------------
+Rank 39/100 | Activation: 0.0678 | Example Index: 21796 | Token Index: 37
+Token: ' into'
+Context: ... the qualifying football game between Bahrain and Iran. If Iran win they will get >>> into<<< the 2006 World Cup in Germany. The problem is the young person...
+--------------------
+Rank 40/100 | Activation: 0.0661 | Example Index: 15019 | Token Index: 501 (Likely Padding)
+--------------------
+Rank 41/100 | Activation: 0.0650 | Example Index: 13169 | Token Index: 113
+Token: '197'
+Context: ... and Tuesday Weld gets a new sweater for the dance. Forward to the >>>197<<< 9, repeat the same plot, but throw in DA RAMONES, whom...
+--------------------
+Rank 42/100 | Activation: 0.0650 | Example Index: 7270 | Token Index: 192 (Likely Padding)
+--------------------
+Rank 43/100 | Activation: 0.0618 | Example Index: 13044 | Token Index: 322 (Likely Padding)
+--------------------
+Rank 44/100 | Activation: 0.0616 | Example Index: 18224 | Token Index: 332
+Token: ','
+Context: ... at the ridiculousness of it all. So much rubbish on TV and good >>>,<<< original shows get kicked around and stamped on. Thanks to the emergence of DVD...
+--------------------
+Rank 45/100 | Activation: 0.0594 | Example Index: 22382 | Token Index: 100
+Token: ' with'
+Context: ... this movie was approaching the top 250, and was "vote bombed" >>> with<<< many 1s, as happens to so many films that aren't about...
+--------------------
+Rank 46/100 | Activation: 0.0589 | Example Index: 22551 | Token Index: 14
+Token: ' historical'
+Context: ...<|begin_of_text|>Titanic directed by James Cameron presents a fictional love story on the >>> historical<<< setting of the Titanic. The plot is simple, noncomplicated, or...
+--------------------
+Rank 47/100 | Activation: 0.0569 | Example Index: 13920 | Token Index: 474 (Likely Padding)
+--------------------
+Rank 48/100 | Activation: 0.0559 | Example Index: 8950 | Token Index: 124
+Token: ' no'
+Context: ... he does here). The main problem is that the actions of the characters make >>> no<<< sense at all. The story is rather dull and predictable with cheap computer effects...
+--------------------
+Rank 49/100 | Activation: 0.0557 | Example Index: 20207 | Token Index: 239
+Token: ' to'
+Context: ... loud music as her father collapses and dies on the staircase. We're led >>> to<<< believe that Marylee sleeps with everyone, including the guy that pumps the gas...
+--------------------
+Rank 50/100 | Activation: 0.0541 | Example Index: 21808 | Token Index: 333 (Likely Padding)
+--------------------
+Rank 51/100 | Activation: 0.0516 | Example Index: 10354 | Token Index: 137 (Likely Padding)
+--------------------
+Rank 52/100 | Activation: 0.0505 | Example Index: 20278 | Token Index: 340 (Likely Padding)
+--------------------
+Rank 53/100 | Activation: 0.0497 | Example Index: 1457 | Token Index: 400 (Likely Padding)
+--------------------
+Rank 54/100 | Activation: 0.0488 | Example Index: 20144 | Token Index: 69
+Token: ' of'
+Context: ..., one unseen. They are both trying to explain the significant of a series >>> of<<< painting that caused a scandal a long time back. The film is all about...
+--------------------
+Rank 55/100 | Activation: 0.0483 | Example Index: 15513 | Token Index: 428 (Likely Padding)
+--------------------
+Rank 56/100 | Activation: 0.0475 | Example Index: 18369 | Token Index: 77
+Token: ' of'
+Context: ... into a lake and causes heat which, in turn, causes the hatching >>> of<<< a frozen dinosaur egg (maybe the cave-paintings suggest instead that this...
+--------------------
+Rank 57/100 | Activation: 0.0468 | Example Index: 18982 | Token Index: 275 (Likely Padding)
+--------------------
+Rank 58/100 | Activation: 0.0462 | Example Index: 24222 | Token Index: 201
+Token: ' the'
+Context: ... touring small Protestant churches around the country being shown on movie projectors(This was >>> the<<< days before VCRS of course). The pastor of a church who would...
+--------------------
+Rank 59/100 | Activation: 0.0460 | Example Index: 23530 | Token Index: 346 (Likely Padding)
+--------------------
+Rank 60/100 | Activation: 0.0459 | Example Index: 17302 | Token Index: 37
+Token: ' that'
+Context: ... talent, style, and artistic integrity to make films outside of the surreal aura >>> that<<< he's become known for in the past decade. As much as the film...
+--------------------
+Rank 61/100 | Activation: 0.0452 | Example Index: 9929 | Token Index: 112
+Token: ' to'
+Context: ... my wife stop watching but I suffered through it. The old men are supposed >>> to<<< be acting like they are young and horny, but it comes off as pathetic...
+--------------------
+Rank 62/100 | Activation: 0.0448 | Example Index: 4462 | Token Index: 378
+Token: ' is'
+Context: ... around stiffly and slightly hunched over. We never find out why he >>> is<<< walking this way. I suspect the director thought it made him more sinister.<...
+--------------------
+Rank 63/100 | Activation: 0.0447 | Example Index: 16420 | Token Index: 27
+Token: ' the'
+Context: ... would love to get an original release in a format we can use here in >>> the<<< States. Eddie truly is Glorious in this performance from San Francisco. I...
+--------------------
+Rank 64/100 | Activation: 0.0444 | Example Index: 21031 | Token Index: 137
+Token: '.'
+Context: ... First, they're both on the floor. Then Hunt jumps on a chair >>>.<<< Kazihiro jumps on the desk. Hunt jumps on the desk with him...
+--------------------
+Rank 65/100 | Activation: 0.0443 | Example Index: 15656 | Token Index: 242
+Token: 'up'
+Context: ..., globe-trotting, utterly suspenseful action. There is no let >>>up<<< , no variation in the rhythm and pull of the film, and yet it...
+--------------------
+Rank 66/100 | Activation: 0.0434 | Example Index: 12245 | Token Index: 194
+Token: ' return'
+Context: ..., Colonel Trautman, for a secret mission. Rambo is to >>> return<<< to Vietnam to investigate reports that American POWs are still being held captive by...
+--------------------
+Rank 67/100 | Activation: 0.0429 | Example Index: 23273 | Token Index: 123
+Token: 'sorry'
+Context: ... the British seem to have had is to introduce 'yes sir' and ' >>>sorry<<< ' into the local language and its amusing that long after we have gone,...
+--------------------
+Rank 68/100 | Activation: 0.0423 | Example Index: 4754 | Token Index: 151
+Token: ' away'
+Context: ... much of Steven Seagal.<br /><br />Take my advice, stay >>> away<<< from this piece of crap....
+--------------------
+Rank 69/100 | Activation: 0.0417 | Example Index: 12423 | Token Index: 216 (Likely Padding)
+--------------------
+Rank 70/100 | Activation: 0.0413 | Example Index: 16090 | Token Index: 118
+Token: ' /><'
+Context: ... is the BOMB. Great full nude scene of her,too.<br >>> /><<<< br />The plot is fairly standard but effectively executed....
+--------------------
+Rank 71/100 | Activation: 0.0410 | Example Index: 2633 | Token Index: 19
+Token: ' '
+Context: ... (actually a remake of) Disney's 1996 live-action remake of >>> <<< 101 Dalmations. Cruella deVil (Glenn Close)...
+--------------------
+Rank 72/100 | Activation: 0.0393 | Example Index: 15664 | Token Index: 42
+Token: ' to'
+Context: ... Throughout the tight, 115-min-runtime the movie takes Bourne from Russia >>> to<<< Madrid, Paris, Marocco and ultimately New York. Damon is every inch...
+--------------------
+Rank 73/100 | Activation: 0.0391 | Example Index: 13159 | Token Index: 16
+Token: ' power'
+Context: ...This is 2009 and this way underrated gem has lost nothing of the >>> power<<< it had 31 years ago. It connects a pretty wide variety of different...
+--------------------
+Rank 74/100 | Activation: 0.0390 | Example Index: 16706 | Token Index: 469
+Token: ' price'
+Context: ... is one of the best things Kurasowa ever did and is worth the >>> price<<< of a rental. Its one of the most magical moments in film history as...
+--------------------
+Rank 75/100 | Activation: 0.0388 | Example Index: 2283 | Token Index: 336
+Token: ' be'
+Context: ... him. She is understandably non-plussed by all of this and forced to >>> be<<< friend a creature who is almost as monstrous as her boyfriend. Oh, there...
+--------------------
+Rank 76/100 | Activation: 0.0388 | Example Index: 24337 | Token Index: 238 (Likely Padding)
+--------------------
+Rank 77/100 | Activation: 0.0383 | Example Index: 11246 | Token Index: 227
+Token: ' partners'
+Context: ... the girl calls the hero "a good Protector", but he gets both his >>> partners<<< , the original Protector, and at least three other civilians, not to mention...
+--------------------
+Rank 78/100 | Activation: 0.0383 | Example Index: 4399 | Token Index: 149
+Token: ' from'
+Context: ... is. The only impetus in the show - sorry, movie - comes >>> from<<< Danielle getting nastier and nastier, and the only surprise comes from watching...
+--------------------
+Rank 79/100 | Activation: 0.0381 | Example Index: 17899 | Token Index: 163
+Token: ' anti'
+Context: ... says "Chavez seizes the airwaves", the private media is running >>> anti<<< Chavez propaganda all the time....
+--------------------
+Rank 80/100 | Activation: 0.0381 | Example Index: 6009 | Token Index: 86
+Token: ' found'
+Context: ...'m very uncritical and easy to please?). However, this time around I >>> found<<< myself a little restless, somewhat bored. It's not a bad film,...
+--------------------
+Rank 81/100 | Activation: 0.0380 | Example Index: 6507 | Token Index: 389 (Likely Padding)
+--------------------
+Rank 82/100 | Activation: 0.0371 | Global Index: 10378743 | Error: Could not map to example
+--------------------
+Rank 83/100 | Activation: 0.0371 | Global Index: 10698001 | Error: Could not map to example
+--------------------
+Rank 84/100 | Activation: 0.0371 | Example Index: 5777 | Token Index: 182
+Token: ','
+Context: ... in this film there're some actors, whose play was awesome! I suppose >>>,<<< that Alessio Boni coped with his task very well! I was...
+--------------------
+Rank 85/100 | Activation: 0.0359 | Example Index: 13898 | Token Index: 300 (Likely Padding)
+--------------------
+Rank 86/100 | Activation: 0.0351 | Example Index: 23402 | Token Index: 442 (Likely Padding)
+--------------------
+Rank 87/100 | Activation: 0.0349 | Example Index: 23452 | Token Index: 169
+Token: ' jumping'
+Context: ...orpion, lizard, and centipede. The fight scenes have the actors >>> jumping<<< all over the place, and thankfully the camera stays planted and uses a wide...
+--------------------
+Rank 88/100 | Activation: 0.0339 | Example Index: 16714 | Token Index: 48
+Token: ' watch'
+Context: ... stupid, obstinate and crazy. The best description will be, if you >>> watch<<< it on your own....
+--------------------
+Rank 89/100 | Activation: 0.0334 | Example Index: 3469 | Token Index: 44
+Token: ' joke'
+Context: ... before I realized that what I was seeing was the feature, not a sick >>> joke<<< !...
+--------------------
+Rank 90/100 | Activation: 0.0331 | Example Index: 2855 | Token Index: 446 (Likely Padding)
+--------------------
+Rank 91/100 | Activation: 0.0321 | Example Index: 14051 | Token Index: 444 (Likely Padding)
+--------------------
+Rank 92/100 | Activation: 0.0319 | Example Index: 10557 | Token Index: 60
+Token: 'a'
+Context: ... crashes and explosions in a parking lot during the film's last five minutes ( >>>a<<< briefly glimpsed port-a-potty early in that scene is certain to wreck...
+--------------------
+Rank 93/100 | Activation: 0.0317 | Example Index: 6653 | Token Index: 140
+Token: ' unforgettable'
+Context: ... a three-eyed insect creature, an oversized Venus Fly-Trap, and the >>> unforgettable<<< rat/bat/spider. The whole bizarre adventure is recalled by survivor Hayden...
+--------------------
+Rank 94/100 | Activation: 0.0311 | Example Index: 20008 | Token Index: 456 (Likely Padding)
+--------------------
+Rank 95/100 | Activation: 0.0305 | Example Index: 4070 | Token Index: 390 (Likely Padding)
+--------------------
+Rank 96/100 | Activation: 0.0300 | Example Index: 4578 | Token Index: 264
+Token: ' as'
+Context: ... picturing Charles Ludlam in various roles, or even Cillian Murphy, >>> as<<< in kabuki theater, particularly as the plot dragged down in cat fight after...
+--------------------
+Rank 97/100 | Activation: 0.0298 | Example Index: 17805 | Token Index: 112
+Token: ' official'
+Context: ... doubt about what happened.<br /><br />Mala Powers (in her >>> official<<< debut) plays a secretary-bookkeeper at a big industrial plant; she lives...
+--------------------
+Rank 98/100 | Activation: 0.0297 | Example Index: 3022 | Token Index: 400 (Likely Padding)
+--------------------
+Rank 99/100 | Activation: 0.0288 | Example Index: 16381 | Token Index: 412 (Likely Padding)
+--------------------
+Rank 100/100 | Activation: 0.0287 | Example Index: 20806 | Token Index: 401
+Token: ' as'
+Context: ... Harry Callahan. Eastwood epitomized coolness and bad-assery >>> as<<< the "Man With No Name" in Sergio Leone's Dollar Trilogy, and...
+--------------------
