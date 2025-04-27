@@ -1,0 +1,305 @@
+--- Max Activating Examples for Feature 9407 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/100 | Activation: 0.2454 | Example Index: 10577 | Token Index: 269
+Token: ' around'
+Context: ... know what will happen to him. As in films of this type, everyone >>> around<<< Russell is dying, but when he attempts to kill Channing, he's...
+--------------------
+Rank 2/100 | Activation: 0.2232 | Example Index: 10545 | Token Index: 352 (Likely Padding)
+--------------------
+Rank 3/100 | Activation: 0.1527 | Example Index: 4461 | Token Index: 458
+Token: ').'
+Context: ..., otherwise you risk boring them (and any adults in the theater as well >>>).<<< Movies, even kid's movies, have improved quite a bit in the intervening...
+--------------------
+Rank 4/100 | Activation: 0.1521 | Example Index: 9750 | Token Index: 335 (Likely Padding)
+--------------------
+Rank 5/100 | Activation: 0.1422 | Example Index: 18447 | Token Index: 279
+Token: ' vampire'
+Context: ..., there should have been more nudity. If you want to see an original >>> vampire<<< movie with a great story, this flick is for you. I'm looking...
+--------------------
+Rank 6/100 | Activation: 0.1325 | Example Index: 18982 | Token Index: 334 (Likely Padding)
+--------------------
+Rank 7/100 | Activation: 0.1254 | Example Index: 12245 | Token Index: 27
+Token: 'bo'
+Context: ... Blood Part II". The original script for "First Blood" had John Ram >>>bo<<< committing suicide at the end of the film, but this was changed to allow...
+--------------------
+Rank 8/100 | Activation: 0.1235 | Example Index: 14713 | Token Index: 395
+Token: ' now'
+Context: ... painter Alan Arkin, who has also lost his family and claims the two >>> now<<< belong to a secret brotherhood. But his location and his identity somehow leak...
+--------------------
+Rank 9/100 | Activation: 0.1229 | Example Index: 4356 | Token Index: 227 (Likely Padding)
+--------------------
+Rank 10/100 | Activation: 0.1168 | Global Index: 10189825 | Error: Could not map to example
+--------------------
+Rank 11/100 | Activation: 0.1166 | Example Index: 1099 | Token Index: 87
+Token: 'od'
+Context: ... I didn't care who done it, then realized there was no "wh >>>od<<< unit" to care about!...
+--------------------
+Rank 12/100 | Activation: 0.1166 | Example Index: 5777 | Token Index: 149
+Token: ' '
+Context: ... Unfortunately, Kutuzov looked like a drunk man, who hasn't shaved >>> <<< 2 weeks and defeated a battle in which he lost his eye...( Thank's...
+--------------------
+Rank 13/100 | Activation: 0.1161 | Example Index: 22582 | Token Index: 99
+Token: ' Also'
+Context: ... first few seasons of X-Files. Not cheap, just hokey. >>> Also<<< , it needed a little more suspense. Something that makes you jump off your...
+--------------------
+Rank 14/100 | Activation: 0.1120 | Example Index: 11236 | Token Index: 254 (Likely Padding)
+--------------------
+Rank 15/100 | Activation: 0.1104 | Global Index: 10247180 | Error: Could not map to example
+--------------------
+Rank 16/100 | Activation: 0.1103 | Example Index: 11744 | Token Index: 357 (Likely Padding)
+--------------------
+Rank 17/100 | Activation: 0.1103 | Example Index: 2866 | Token Index: 326 (Likely Padding)
+--------------------
+Rank 18/100 | Activation: 0.1099 | Example Index: 7270 | Token Index: 192 (Likely Padding)
+--------------------
+Rank 19/100 | Activation: 0.1059 | Example Index: 24782 | Token Index: 175
+Token: 'br'
+Context: ... the same time, you feel sickenly sorry for him.<br />< >>>br<<< />It would have been a lot easier for me to simply walk out of...
+--------------------
+Rank 20/100 | Activation: 0.1020 | Example Index: 1586 | Token Index: 298
+Token: ''re'
+Context: ... waste of (HD digital storage): "you're in the woods...you >>>'re<<< in the woods...you're in the woods...". I too am surprised...
+--------------------
+Rank 21/100 | Activation: 0.1015 | Example Index: 21787 | Token Index: 241 (Likely Padding)
+--------------------
+Rank 22/100 | Activation: 0.0975 | Example Index: 24351 | Token Index: 97
+Token: ' and'
+Context: ... "What Can You Lose" is haunting -- even tunes like "Live Alone >>> and<<< Like It" add to the story<br /><br />Got to love the...
+--------------------
+Rank 23/100 | Activation: 0.0970 | Example Index: 5185 | Token Index: 77
+Token: ' people'
+Context: ... murderous outcasts trying to survive after there parents have died. They kidnap >>> people<<< , drain the blood from them and feed something locked away in their basement....
+--------------------
+Rank 24/100 | Activation: 0.0929 | Example Index: 21808 | Token Index: 339 (Likely Padding)
+--------------------
+Rank 25/100 | Activation: 0.0928 | Example Index: 15290 | Token Index: 447 (Likely Padding)
+--------------------
+Rank 26/100 | Activation: 0.0918 | Example Index: 5319 | Token Index: 352
+Token: ' the'
+Context: ... movie (which is essentially the same as the play) says nothing new about >>> the<<< reprehensible sexual atrocities committed and in many cases covered up by the Catholic church...
+--------------------
+Rank 27/100 | Activation: 0.0914 | Example Index: 8387 | Token Index: 105
+Token: ' to'
+Context: ... I mean really WHY would anyone ever ever see this movie unless they were paid >>> to<<< . The comedy is weak and all even remotely funny jokes from the flims...
+--------------------
+Rank 28/100 | Activation: 0.0912 | Example Index: 12719 | Token Index: 153 (Likely Padding)
+--------------------
+Rank 29/100 | Activation: 0.0884 | Example Index: 9732 | Token Index: 160 (Likely Padding)
+--------------------
+Rank 30/100 | Activation: 0.0875 | Example Index: 2708 | Token Index: 477 (Likely Padding)
+--------------------
+Rank 31/100 | Activation: 0.0871 | Example Index: 250 | Token Index: 438 (Likely Padding)
+--------------------
+Rank 32/100 | Activation: 0.0866 | Example Index: 24653 | Token Index: 356 (Likely Padding)
+--------------------
+Rank 33/100 | Activation: 0.0849 | Example Index: 8183 | Token Index: 203 (Likely Padding)
+--------------------
+Rank 34/100 | Activation: 0.0824 | Example Index: 24686 | Token Index: 334
+Token: 'ouser'
+Context: ... views of Mr. Daniels with Tintin portrayed as a rabble r >>>ouser<<< with a chip on his shoulder who nevertheless cares for The Captain who he's...
+--------------------
+Rank 35/100 | Activation: 0.0820 | Example Index: 7105 | Token Index: 284
+Token: ' disbelief'
+Context: ... felt like ten minutes.<br /><br />If "suspension of >>> disbelief<<< " means "almost falling asleep during a movie", then this has plenty of...
+--------------------
+Rank 36/100 | Activation: 0.0813 | Example Index: 16104 | Token Index: 295 (Likely Padding)
+--------------------
+Rank 37/100 | Activation: 0.0805 | Example Index: 9172 | Token Index: 171
+Token: ' some'
+Context: ..., sets, costumes, music, photography, editing, mostly good cast, >>> some<<< decent acting...<br /><br />...and absolutely, positively, one...
+--------------------
+Rank 38/100 | Activation: 0.0799 | Global Index: 10337994 | Error: Could not map to example
+--------------------
+Rank 39/100 | Activation: 0.0798 | Example Index: 18288 | Token Index: 119
+Token: ','
+Context: ... well. Spidey has his hands full as he battles Venom, Rhino >>>,<<< Mysterio, Scorpion, and Dr. Octopus to name a...
+--------------------
+Rank 40/100 | Activation: 0.0790 | Example Index: 2930 | Token Index: 79
+Token: ' one'
+Context: ...aine, Peter Ustinov and William Holden reach a career low in this >>> one<<< ), and completely lacks excitement never mind any moral focus. It's also ludicrous...
+--------------------
+Rank 41/100 | Activation: 0.0780 | Example Index: 19866 | Token Index: 170 (Likely Padding)
+--------------------
+Rank 42/100 | Activation: 0.0777 | Example Index: 23592 | Token Index: 387
+Token: ' movie'
+Context: ... novel. Despite being a movie about four men locked in a room, the >>> movie<<< never gets boring or tiresome and in fact, the isolation of the group...
+--------------------
+Rank 43/100 | Activation: 0.0743 | Example Index: 16482 | Token Index: 424 (Likely Padding)
+--------------------
+Rank 44/100 | Activation: 0.0713 | Example Index: 14073 | Token Index: 178 (Likely Padding)
+--------------------
+Rank 45/100 | Activation: 0.0710 | Example Index: 2895 | Token Index: 226 (Likely Padding)
+--------------------
+Rank 46/100 | Activation: 0.0702 | Example Index: 18676 | Token Index: 154
+Token: 'pte'
+Context: ...a 60 old woman stripping.....i guarantee its the most unsexy stri >>>pte<<< ase in film history......its movie which is real..i think thats the...
+--------------------
+Rank 47/100 | Activation: 0.0693 | Example Index: 12696 | Token Index: 251
+Token: ' with'
+Context: ... the director of the film, King Vidor. This is a silent film >>> with<<< a few "sound effects" as sound pictures were just coming into their own...
+--------------------
+Rank 48/100 | Activation: 0.0678 | Example Index: 18151 | Token Index: 259
+Token: ' residency'
+Context: .... He must decide whether to finish medical school, which would mean accepting his >>> residency<<< in another city and leave Dominick (a.k.a "Nicky")...
+--------------------
+Rank 49/100 | Activation: 0.0674 | Example Index: 12632 | Token Index: 108
+Token: ' he'
+Context: ...dered' were from there.<br /><br />Many of the buildings >>> he<<< visited in his life are still standing. From the Old Melbourne Gaol where...
+--------------------
+Rank 50/100 | Activation: 0.0655 | Example Index: 19122 | Token Index: 203 (Likely Padding)
+--------------------
+Rank 51/100 | Activation: 0.0621 | Example Index: 8638 | Token Index: 495
+Token: ' up'
+Context: ... the piece of ass he's got waiting for him once this case gets wrapped >>> up<<< (that's right, Millard Mitchell, swordsman). Finally, in...
+--------------------
+Rank 52/100 | Activation: 0.0619 | Global Index: 10621351 | Error: Could not map to example
+--------------------
+Rank 53/100 | Activation: 0.0618 | Example Index: 21385 | Token Index: 497 (Likely Padding)
+--------------------
+Rank 54/100 | Activation: 0.0618 | Example Index: 10699 | Token Index: 227 (Likely Padding)
+--------------------
+Rank 55/100 | Activation: 0.0617 | Example Index: 4067 | Token Index: 53
+Token: ' into'
+Context: ... had been in the first scene. After the film finally got Cusack >>> into<<< the eponymous hotel room, I had to wonder, well, what...
+--------------------
+Rank 56/100 | Activation: 0.0614 | Example Index: 11834 | Token Index: 146
+Token: '30'
+Context: ... again, he hasn't made a watchable movie in, what? >>>30<<< years? Sometimes, there's just no coming back....
+--------------------
+Rank 57/100 | Activation: 0.0613 | Example Index: 20383 | Token Index: 279 (Likely Padding)
+--------------------
+Rank 58/100 | Activation: 0.0612 | Example Index: 12044 | Token Index: 439 (Likely Padding)
+--------------------
+Rank 59/100 | Activation: 0.0612 | Example Index: 18828 | Token Index: 321 (Likely Padding)
+--------------------
+Rank 60/100 | Activation: 0.0608 | Example Index: 8100 | Token Index: 73
+Token: 'oo'
+Context: ... seen and certainly the worst Robin Williams movie (even worse than Death to Sm >>>oo<<< chy, Club Paradise, and Alladin on Ice).<br /><br...
+--------------------
+Rank 61/100 | Activation: 0.0607 | Example Index: 21983 | Token Index: 292 (Likely Padding)
+--------------------
+Rank 62/100 | Activation: 0.0603 | Example Index: 6653 | Token Index: 141
+Token: ' rat'
+Context: ... three-eyed insect creature, an oversized Venus Fly-Trap, and the unforgettable >>> rat<<< /bat/spider. The whole bizarre adventure is recalled by survivor Hayden under...
+--------------------
+Rank 63/100 | Activation: 0.0596 | Example Index: 14856 | Token Index: 383 (Likely Padding)
+--------------------
+Rank 64/100 | Activation: 0.0596 | Example Index: 14196 | Token Index: 102
+Token: ' very'
+Context: ... That is finally up to you, but in my opinion, this is a >>> very<<< funny movie. You get to laugh a lot, plus it delivers a social...
+--------------------
+Rank 65/100 | Activation: 0.0589 | Example Index: 7181 | Token Index: 445 (Likely Padding)
+--------------------
+Rank 66/100 | Activation: 0.0589 | Example Index: 4147 | Token Index: 144
+Token: ' Mars'
+Context: ... plot and characters are mainly stolen directly from John Carpenter's "Ghosts of >>> Mars<<< " and James Cameron's "Aliens", as a crew of futuristic vampire...
+--------------------
+Rank 67/100 | Activation: 0.0587 | Example Index: 21043 | Token Index: 406 (Likely Padding)
+--------------------
+Rank 68/100 | Activation: 0.0569 | Example Index: 15284 | Token Index: 80
+Token: ' Brooks'
+Context: ... we get all sorts of interesting information from similes that the writer/director >>> Brooks<<< creates.<br /><br />Notice the incredible cutting at the beginning where killers...
+--------------------
+Rank 69/100 | Activation: 0.0559 | Example Index: 15283 | Token Index: 4
+Token: ' B'
+Context: ...<|begin_of_text|>IN COLD >>> B<<< LOOD has to be ranked as first-rate movie-making, even if the subject...
+--------------------
+Rank 70/100 | Activation: 0.0550 | Example Index: 9745 | Token Index: 320 (Likely Padding)
+--------------------
+Rank 71/100 | Activation: 0.0546 | Example Index: 24176 | Token Index: 369 (Likely Padding)
+--------------------
+Rank 72/100 | Activation: 0.0537 | Example Index: 8295 | Token Index: 278
+Token: ''t'
+Context: ..., who are remarkably resilient to shot gun blasts and screwdrivers where they didn >>>'t<<< want them. Eventually they come to find that something happened back at that store...
+--------------------
+Rank 73/100 | Activation: 0.0529 | Example Index: 23617 | Token Index: 394
+Token: 'one'
+Context: ... guide and end up with Stallone and Rooker. They send Stall >>>one<<< to fetch the first case of money, but somehow they do everything to make...
+--------------------
+Rank 74/100 | Activation: 0.0517 | Example Index: 7200 | Token Index: 153
+Token: ' that'
+Context: ... rifles, one Mexican officer is shot, Shaw and Landau celebrating, and >>> that<<< 's it. We never find out why Shaw has become a priest (if...
+--------------------
+Rank 75/100 | Activation: 0.0516 | Example Index: 24767 | Token Index: 437 (Likely Padding)
+--------------------
+Rank 76/100 | Activation: 0.0514 | Example Index: 23904 | Token Index: 491 (Likely Padding)
+--------------------
+Rank 77/100 | Activation: 0.0510 | Example Index: 24792 | Token Index: 11
+Token: ' collection'
+Context: ...<|begin_of_text|>I pulled down a VHS box from my vast >>> collection<<< - many unseen - and picked out a movie, based on the box art...
+--------------------
+Rank 78/100 | Activation: 0.0505 | Example Index: 12684 | Token Index: 353 (Likely Padding)
+--------------------
+Rank 79/100 | Activation: 0.0500 | Example Index: 18483 | Token Index: 123
+Token: ' as'
+Context: ... a natural anchor for a film that tugs at the heartstrings as effectively >>> as<<< it tickles the funny bone in the more comedic scenes. A superb cast...
+--------------------
+Rank 80/100 | Activation: 0.0491 | Example Index: 23514 | Token Index: 416
+Token: ' it'
+Context: .... You don't have to steal it." and he says "Well if >>> it<<< 's free then I ain't stealin' it", and that classic moment...
+--------------------
+Rank 81/100 | Activation: 0.0490 | Example Index: 21534 | Token Index: 321 (Likely Padding)
+--------------------
+Rank 82/100 | Activation: 0.0476 | Example Index: 21638 | Token Index: 121
+Token: ' a'
+Context: ... school for girls in the 1800's who advertises her services as >>> a<<< governess in the newspapers.She is offered the post of governess at the...
+--------------------
+Rank 83/100 | Activation: 0.0475 | Example Index: 10253 | Token Index: 236
+Token: ' the'
+Context: .... I really didn't care how it finished. Skip this film and read >>> the<<< book instead....
+--------------------
+Rank 84/100 | Activation: 0.0475 | Example Index: 12813 | Token Index: 392 (Likely Padding)
+--------------------
+Rank 85/100 | Activation: 0.0473 | Example Index: 7328 | Token Index: 109
+Token: ' the'
+Context: .... Also the sets seem to be built with no care as in one scene >>> the<<< sliding glass top in a top secret lab has a massive crack going thru it...
+--------------------
+Rank 86/100 | Activation: 0.0472 | Example Index: 4324 | Token Index: 420 (Likely Padding)
+--------------------
+Rank 87/100 | Activation: 0.0472 | Example Index: 17358 | Token Index: 369
+Token: ','
+Context: ... year 2002 they made a sequel which had a PG-13 rating >>>,<<< but without Jet Li and Liu Qing Yun. And you know how bad that...
+--------------------
+Rank 88/100 | Activation: 0.0465 | Example Index: 2714 | Token Index: 332 (Likely Padding)
+--------------------
+Rank 89/100 | Activation: 0.0459 | Example Index: 11065 | Token Index: 447 (Likely Padding)
+--------------------
+Rank 90/100 | Activation: 0.0457 | Example Index: 17459 | Token Index: 30
+Token: ' In'
+Context: ... this one begins the day we buried George. Not that we buried him. >>> In<<< the interests of the environment we had him incinerated." So speaks Elizabeth...
+--------------------
+Rank 91/100 | Activation: 0.0449 | Example Index: 14298 | Token Index: 245
+Token: ' Where'
+Context: ..., he was quickly rushed to a Nearby Hospital, The Same Burbank Hospital >>> Where<<< He Was Born,he was diagnosed with an aorta dissection, an...
+--------------------
+Rank 92/100 | Activation: 0.0445 | Example Index: 10302 | Token Index: 367 (Likely Padding)
+--------------------
+Rank 93/100 | Activation: 0.0439 | Example Index: 7393 | Token Index: 393 (Likely Padding)
+--------------------
+Rank 94/100 | Activation: 0.0436 | Example Index: 18084 | Token Index: 476
+Token: ' sarc'
+Context: ...aint institution" (don't get mad at me--this IS meant as >>> sarc<<< asm)....
+--------------------
+Rank 95/100 | Activation: 0.0435 | Example Index: 9105 | Token Index: 88
+Token: ' why'
+Context: ... was bound by my word to suffer the whole thing. I don't know >>> why<<< I do these bad things to myself.<br /><br />As if it...
+--------------------
+Rank 96/100 | Activation: 0.0430 | Example Index: 16786 | Token Index: 400
+Token: ' comedic'
+Context: ..., and demonstrates she's a versatile and talented actress who can pull out a >>> comedic<<< and dramatic performance in sheer brilliance.<br /><br />Alain Chab...
+--------------------
+Rank 97/100 | Activation: 0.0429 | Example Index: 2256 | Token Index: 14
+Token: ' stuff'
+Context: ...<|begin_of_text|>Trite, clichéd dialog and plotting (the same kind of >>> stuff<<< we saw all through the 1980s fantasy movies), hokey music...
+--------------------
+Rank 98/100 | Activation: 0.0428 | Example Index: 13872 | Token Index: 180 (Likely Padding)
+--------------------
+Rank 99/100 | Activation: 0.0427 | Example Index: 19370 | Token Index: 201
+Token: ' to'
+Context: ... abstract premise.<br /><br />This is a movie that does not fail >>> to<<< capture the innate steering that one goes through during an emotional cleansing. No one...
+--------------------
+Rank 100/100 | Activation: 0.0423 | Example Index: 24088 | Token Index: 140
+Token: ' WW'
+Context: ... compare whit the movie soldier from orange or any real story that happened in the >>> WW<<< 2....
+--------------------

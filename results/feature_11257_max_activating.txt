@@ -1,0 +1,323 @@
+--- Max Activating Examples for Feature 11257 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/100 | Activation: 0.2323 | Example Index: 13396 | Token Index: 282
+Token: '199'
+Context: ... show to die.<br /><br />Stargate SG1 - >>>199<<< 7 - 2007?...
+--------------------
+Rank 2/100 | Activation: 0.2095 | Example Index: 20736 | Token Index: 108
+Token: ' the'
+Context: ... of the hunters named Otis starts to argue with the Dad George, after >>> the<<< car is lifted they drive off to the house. The Son Miles is a...
+--------------------
+Rank 3/100 | Activation: 0.2090 | Example Index: 15582 | Token Index: 46
+Token: ' seen'
+Context: ... now and only seeing this now, I am not an expert but I have >>> seen<<< all the well known films out there). When there are a ton of actors...
+--------------------
+Rank 4/100 | Activation: 0.2039 | Example Index: 10683 | Token Index: 62
+Token: ' '
+Context: ... killed the career of a less resilient actress. And now it's EUROPA >>> <<< 51, another tedious exercise in soggy sentiment.<br /><br />Nor...
+--------------------
+Rank 5/100 | Activation: 0.1913 | Example Index: 6403 | Token Index: 191
+Token: ' today'
+Context: ...puny female" member of the crew. It'd be somewhat offensive by >>> today<<< 's standards if it weren't so damn funny. But Mars is the real...
+--------------------
+Rank 6/100 | Activation: 0.1848 | Example Index: 17542 | Token Index: 109
+Token: ' it'
+Context: ... the user ratings are bi-polar clustering at 5 and 7; >>> it<<< 's not for everyone, but has a strong following. This movie is underrated...
+--------------------
+Rank 7/100 | Activation: 0.1837 | Example Index: 19614 | Token Index: 388 (Likely Padding)
+--------------------
+Rank 8/100 | Activation: 0.1790 | Example Index: 9840 | Token Index: 238 (Likely Padding)
+--------------------
+Rank 9/100 | Activation: 0.1753 | Example Index: 6815 | Token Index: 50
+Token: ' I'
+Context: ... possibly know what it is really like to be Puerto Rican. As far as >>> I<<< knew....she was a Nuyorican. Well anyway, I anxiously...
+--------------------
+Rank 10/100 | Activation: 0.1697 | Example Index: 18412 | Token Index: 164
+Token: ' Girl'
+Context: ... For a better example of the Sheridan-Reagan duo I would recommend Juke >>> Girl<<< or Kings Row....
+--------------------
+Rank 11/100 | Activation: 0.1679 | Example Index: 23719 | Token Index: 466
+Token: ' veterinarian'
+Context: ... and the large pet cemetery in the woods out back. Since Louis is a >>> veterinarian<<< and has a young toddler for a son...well, even if you haven...
+--------------------
+Rank 12/100 | Activation: 0.1619 | Example Index: 17516 | Token Index: 470 (Likely Padding)
+--------------------
+Rank 13/100 | Activation: 0.1618 | Example Index: 2644 | Token Index: 217 (Likely Padding)
+--------------------
+Rank 14/100 | Activation: 0.1539 | Example Index: 20103 | Token Index: 31
+Token: ' only'
+Context: ...'s the greatest movie of all time, but because it surprised me. Not >>> only<<< was it a T.V. movie, but it was on Elvis. I...
+--------------------
+Rank 15/100 | Activation: 0.1515 | Example Index: 3618 | Token Index: 393 (Likely Padding)
+--------------------
+Rank 16/100 | Activation: 0.1478 | Example Index: 14852 | Token Index: 376
+Token: ' the'
+Context: ... Kirk that Talos IV is under interdiction, and any contact with >>> the<<< planet by Starfleet vessels or personnel carries an immediate death sentence, meaning that...
+--------------------
+Rank 17/100 | Activation: 0.1471 | Example Index: 7655 | Token Index: 375 (Likely Padding)
+--------------------
+Rank 18/100 | Activation: 0.1410 | Global Index: 10331915 | Error: Could not map to example
+--------------------
+Rank 19/100 | Activation: 0.1386 | Example Index: 1929 | Token Index: 470
+Token: ','
+Context: ... they tried to act like Americans and the film was supposed to be in California >>>,<<< the accents are STRONG. Perhaps German audiences watched this and marveled at...
+--------------------
+Rank 20/100 | Activation: 0.1374 | Global Index: 10747858 | Error: Could not map to example
+--------------------
+Rank 21/100 | Activation: 0.1343 | Example Index: 14436 | Token Index: 160
+Token: ','
+Context: ... sense of Australian patriotism. The plot is far more vibrant than the first film >>>,<<< and much more showy, with particular aspects of the previous incorporated into the...
+--------------------
+Rank 22/100 | Activation: 0.1339 | Global Index: 10420427 | Error: Could not map to example
+--------------------
+Rank 23/100 | Activation: 0.1320 | Example Index: 6941 | Token Index: 207
+Token: ' hinted'
+Context: ... sci-fi cult film "Laserblast", which is, as I've >>> hinted<<< at earlier, the worst sci-fi film ever made. Milford plays the...
+--------------------
+Rank 24/100 | Activation: 0.1311 | Example Index: 3237 | Token Index: 162
+Token: ' was'
+Context: ... about this movie was the trailers before the movie and the end credits. It >>> was<<< a waste of money time and air. Avoid at all costs!!!!!!!!...
+--------------------
+Rank 25/100 | Activation: 0.1308 | Example Index: 7130 | Token Index: 426
+Token: ' without'
+Context: ...astassja Kinki. She is presented fat, without make-up, >>> without<<< any glamour. A total lack of respect with one of the most beautiful actress...
+--------------------
+Rank 26/100 | Activation: 0.1245 | Example Index: 17859 | Token Index: 116
+Token: ' bet'
+Context: ... win her in less than 30 days with "no" money! They >>> bet<<< polo ponies over the issue and take all his cash and ID's....
+--------------------
+Rank 27/100 | Activation: 0.1239 | Example Index: 3036 | Token Index: 135
+Token: ' boring'
+Context: ... under no delusions that it is rubbish. It is, however, not >>> boring<<< rubbish. After a terrorist steals a virus, he drops it while being pursued...
+--------------------
+Rank 28/100 | Activation: 0.1231 | Example Index: 19363 | Token Index: 99
+Token: ' way'
+Context: ... the film itself are puzzling: it's like if the stage became a >>> way<<< out for the Heroin. If all american movies could only be that top...
+--------------------
+Rank 29/100 | Activation: 0.1169 | Example Index: 16983 | Token Index: 216
+Token: ' keep'
+Context: ... but the way i see it is a good movie is a movie that can >>> keep<<< me entertained. Sure the middle of the movie was boring, VERY BOR...
+--------------------
+Rank 30/100 | Activation: 0.1161 | Example Index: 11702 | Token Index: 100
+Token: ' enjoyable'
+Context: ... this film to the average or below-average mind, I think it would be >>> enjoyable<<< if I was a dumber. If you must watch this film on a...
+--------------------
+Rank 31/100 | Activation: 0.1148 | Example Index: 11710 | Token Index: 431 (Likely Padding)
+--------------------
+Rank 32/100 | Activation: 0.1113 | Example Index: 6563 | Token Index: 402
+Token: '-alone'
+Context: ... of Sholay, it's a pretty bad effort even as a stand >>>-alone<<< film. The eardrum-damaging background score sounds more like someone...
+--------------------
+Rank 33/100 | Activation: 0.1112 | Example Index: 21500 | Token Index: 86
+Token: ' free'
+Context: ... took also three different challenges for Homer and his friends to conquer a personal and >>> free<<< future. The challenge of the first ever man-made artificial satellite, Sput...
+--------------------
+Rank 34/100 | Activation: 0.1054 | Example Index: 24203 | Token Index: 300
+Token: 'br'
+Context: .... <br /><br />Just don't expect too much.<br />< >>>br<<< />She's more than just a great set of boobs. She's also...
+--------------------
+Rank 35/100 | Activation: 0.1031 | Example Index: 6155 | Token Index: 212 (Likely Padding)
+--------------------
+Rank 36/100 | Activation: 0.1025 | Example Index: 13198 | Token Index: 99
+Token: 'adle'
+Context: ... if you want to cause that is my favorite movie of all including Empty Cr >>>adle<<< to and if anyone knows when that comes on to PLEASE let me know,I...
+--------------------
+Rank 37/100 | Activation: 0.1011 | Example Index: 21965 | Token Index: 437 (Likely Padding)
+--------------------
+Rank 38/100 | Activation: 0.1008 | Example Index: 2263 | Token Index: 37
+Token: ' world'
+Context: ... movies are good for making you stop thinking of everything else going on in your >>> world<<< . Even a stupid B movie will usually make me laugh and I will still...
+--------------------
+Rank 39/100 | Activation: 0.1004 | Example Index: 4028 | Token Index: 354
+Token: ' throughout'
+Context: ... far from perfect, almost the opposite, meaning that it was almost completely dire >>> throughout<<< .<br /><br />Watch it if you like, but if you've...
+--------------------
+Rank 40/100 | Activation: 0.1001 | Example Index: 23102 | Token Index: 305 (Likely Padding)
+--------------------
+Rank 41/100 | Activation: 0.0999 | Example Index: 12082 | Token Index: 58
+Token: 'les'
+Context: ... criminal Martin Cahill (alongside Ordinary Decent Criminal and Vicious Circ >>>les<<< ), it has an abundance of incident and style (the film was shot in...
+--------------------
+Rank 42/100 | Activation: 0.0986 | Example Index: 2823 | Token Index: 230 (Likely Padding)
+--------------------
+Rank 43/100 | Activation: 0.0971 | Example Index: 22279 | Token Index: 206
+Token: ' St'
+Context: ...'s than the Danny DeVito portrayal of "Batman Returns." David Ogden >>> St<<< iers is the perfect choice for the Penguin's voice. The Penguin is finally...
+--------------------
+Rank 44/100 | Activation: 0.0968 | Example Index: 15285 | Token Index: 330 (Likely Padding)
+--------------------
+Rank 45/100 | Activation: 0.0962 | Example Index: 21642 | Token Index: 398
+Token: ' not'
+Context: ... some other version. Some say the movie is dull and boring because Jane is >>> not<<< passionate enough, or because there are not enough "kissing scenes". I...
+--------------------
+Rank 46/100 | Activation: 0.0950 | Example Index: 19368 | Token Index: 258 (Likely Padding)
+--------------------
+Rank 47/100 | Activation: 0.0941 | Example Index: 5582 | Token Index: 102 (Likely Padding)
+--------------------
+Rank 48/100 | Activation: 0.0940 | Example Index: 4273 | Token Index: 300
+Token: ' are'
+Context: ... beautiful nature but that's about it in the merits department. The fight scenes >>> are<<< plenty and always include half naked females hitting and kicking each other. The violence...
+--------------------
+Rank 49/100 | Activation: 0.0933 | Example Index: 2223 | Token Index: 356 (Likely Padding)
+--------------------
+Rank 50/100 | Activation: 0.0928 | Example Index: 24082 | Token Index: 375
+Token: ' earlier'
+Context: ... from a different film The Mark of the Wolf Man (made 4 years >>> earlier<<< , featuring the same actor but playing the part with more aggression and with a...
+--------------------
+Rank 51/100 | Activation: 0.0920 | Example Index: 1426 | Token Index: 163
+Token: '7'
+Context: ... actors try.<br /><br />The director has a bit of a Se >>>7<<< en complex, but looking merely at the direction, I think he does an...
+--------------------
+Rank 52/100 | Activation: 0.0915 | Example Index: 4730 | Token Index: 270 (Likely Padding)
+--------------------
+Rank 53/100 | Activation: 0.0893 | Example Index: 20264 | Token Index: 470 (Likely Padding)
+--------------------
+Rank 54/100 | Activation: 0.0878 | Example Index: 23066 | Token Index: 475 (Likely Padding)
+--------------------
+Rank 55/100 | Activation: 0.0859 | Example Index: 4337 | Token Index: 208 (Likely Padding)
+--------------------
+Rank 56/100 | Activation: 0.0858 | Example Index: 20214 | Token Index: 48
+Token: 'O'
+Context: ... out of Rock Hudson, Dorothy Malone (Oscar winner), Robert Stack ( >>>O<<< scar nominated), and Lauren Bacall that words cannot describe. Paul Verhoe...
+--------------------
+Rank 57/100 | Activation: 0.0855 | Example Index: 23048 | Token Index: 116
+Token: ' before'
+Context: ... a lot of confidence. He apparently had some dancing jobs in his early life >>> before<<< his acting career started to take off big time, so it actually isn't...
+--------------------
+Rank 58/100 | Activation: 0.0852 | Example Index: 21363 | Token Index: 460
+Token: ' a'
+Context: ...br /><br />When the film opens, we meet Antoinette, >>> a<<< Swiss border guard, who boards a van with a trained dog to sniff out...
+--------------------
+Rank 59/100 | Activation: 0.0851 | Example Index: 4290 | Token Index: 262 (Likely Padding)
+--------------------
+Rank 60/100 | Activation: 0.0849 | Example Index: 96 | Token Index: 495 (Likely Padding)
+--------------------
+Rank 61/100 | Activation: 0.0848 | Example Index: 22322 | Token Index: 236 (Likely Padding)
+--------------------
+Rank 62/100 | Activation: 0.0846 | Example Index: 20887 | Token Index: 18
+Token: ' to'
+Context: ...'ve always been a fan of Full Moon's puppet work. But I have >>> to<<< say that Robot Jox is one of there better projects. Yes, you...
+--------------------
+Rank 63/100 | Activation: 0.0831 | Example Index: 23438 | Token Index: 318 (Likely Padding)
+--------------------
+Rank 64/100 | Activation: 0.0827 | Example Index: 9419 | Token Index: 22
+Token: ' effects'
+Context: ... is a pretty typical fare of 1950's serials. The special >>> effects<<< are pretty cheap, the lunar rovers are obviously World War II surplus je...
+--------------------
+Rank 65/100 | Activation: 0.0826 | Example Index: 10563 | Token Index: 481 (Likely Padding)
+--------------------
+Rank 66/100 | Activation: 0.0821 | Example Index: 2158 | Token Index: 243 (Likely Padding)
+--------------------
+Rank 67/100 | Activation: 0.0813 | Example Index: 18170 | Token Index: 133
+Token: 'roup'
+Context: ... haunted house the baddies leave you alone, giving you time to reg >>>roup<<< , get friends, and find the token mysterious paranormal type. NORMALLY...
+--------------------
+Rank 68/100 | Activation: 0.0809 | Example Index: 15656 | Token Index: 223
+Token: ' the'
+Context: ... frame, the viewer seemingly holds his breath, pushed back against the chair by >>> the<<< force of relentless, globe-trotting, utterly suspenseful action. There...
+--------------------
+Rank 69/100 | Activation: 0.0791 | Example Index: 4322 | Token Index: 35
+Token: ' not'
+Context: ... such a mesmerizing subject into a totally uninspiring story? Apparantly >>> not<<< such a difficult task... First of all, a conditio sine qua...
+--------------------
+Rank 70/100 | Activation: 0.0791 | Example Index: 13411 | Token Index: 26
+Token: ' on'
+Context: ... 4 and since then i have seen all the episodes got all the episodes >>> on<<< DVD and keeps getting better and better with the seasons of 9 and ...
+--------------------
+Rank 71/100 | Activation: 0.0791 | Example Index: 2644 | Token Index: 86
+Token: ' instead'
+Context: ... film leads nowhere. Don't waste your time. See Donnie Darko >>> instead<<< if you want a creepy Drew Barrymore film, and if you want to...
+--------------------
+Rank 72/100 | Activation: 0.0790 | Example Index: 8951 | Token Index: 256
+Token: ','
+Context: ... by looking so intense and on edge but in a still mild neurotic manner >>>,<<< it's not natural, I'm surprised he didn't dislocate his jaw...
+--------------------
+Rank 73/100 | Activation: 0.0771 | Example Index: 5606 | Token Index: 271
+Token: ' has'
+Context: ...perin, Howard Higgin & Rollo Lloyd all uncredited, >>> has<<< a good central idea but is killed stone cold dead by being dull & as...
+--------------------
+Rank 74/100 | Activation: 0.0770 | Example Index: 3386 | Token Index: 6
+Token: ' me'
+Context: ...<|begin_of_text|>This film's trailer interested >>> me<<< enough to warrant renting the DVD. However, the resulting movie is absolutely dire...
+--------------------
+Rank 75/100 | Activation: 0.0769 | Example Index: 20479 | Token Index: 179
+Token: ' be'
+Context: ... for sure. It is the funniest Muppet movie and is sure to >>> be<<< enjoyed by all.<br /><br />***1/2 out of ****...
+--------------------
+Rank 76/100 | Activation: 0.0746 | Example Index: 10870 | Token Index: 7
+Token: ' It'
+Context: ...<|begin_of_text|>This movie was a mess. >>> It<<< had the absolute worst editing I have ever seen. It was almost like at...
+--------------------
+Rank 77/100 | Activation: 0.0734 | Global Index: 10292981 | Error: Could not map to example
+--------------------
+Rank 78/100 | Activation: 0.0728 | Example Index: 14599 | Token Index: 175
+Token: ' appeal'
+Context: ... a perfect 10 in this Golden Age Cinema Classic, that has a special >>> appeal<<< for all generations. A must see for all!...
+--------------------
+Rank 79/100 | Activation: 0.0720 | Example Index: 17002 | Token Index: 368 (Likely Padding)
+--------------------
+Rank 80/100 | Activation: 0.0711 | Example Index: 19890 | Token Index: 213
+Token: ' could'
+Context: ... or neo-realism. It's a comical story with serious moments that >>> could<<< really happen to any of us....
+--------------------
+Rank 81/100 | Activation: 0.0707 | Example Index: 24063 | Token Index: 151
+Token: ' Go'
+Context: ...craft and Satanism. Things get complicated when Ann starts accusing members of the >>> Go<<< ode family of witchcraft. Salem (of 1980 or so),...
+--------------------
+Rank 82/100 | Activation: 0.0705 | Example Index: 7199 | Token Index: 179 (Likely Padding)
+--------------------
+Rank 83/100 | Activation: 0.0696 | Example Index: 21566 | Token Index: 135
+Token: ' ability'
+Context: .... Right from the start the two bands pull in opposite directions just on their >>> ability<<< to make decisions whether good or bad. Filmed over seven years and at...
+--------------------
+Rank 84/100 | Activation: 0.0691 | Example Index: 16277 | Token Index: 35
+Token: ' robots'
+Context: ... from the future, as the evil Chuck De Nomolos sends two evil >>> robots<<< , disguised as Bill and Ted to earth to kill human Bill and Ted,...
+--------------------
+Rank 85/100 | Activation: 0.0674 | Example Index: 22257 | Token Index: 118
+Token: ','
+Context: ... everything else in the film seems cheap. The lead actors aren't that bad >>>,<<< but pretty much all the supporting ones are unbelievably bad (one girl seems...
+--------------------
+Rank 86/100 | Activation: 0.0669 | Example Index: 4529 | Token Index: 62
+Token: ' wasn'
+Context: ..., it was his need to overcome his fear of death. But, he >>> wasn<<< 't set up as someone who has lived his life in fear -- it seems...
+--------------------
+Rank 87/100 | Activation: 0.0665 | Example Index: 22284 | Token Index: 404 (Likely Padding)
+--------------------
+Rank 88/100 | Activation: 0.0661 | Global Index: 10631256 | Error: Could not map to example
+--------------------
+Rank 89/100 | Activation: 0.0659 | Example Index: 22833 | Token Index: 165 (Likely Padding)
+--------------------
+Rank 90/100 | Activation: 0.0657 | Example Index: 21064 | Token Index: 311
+Token: ' made'
+Context: ... no, not hook you like some prime time drama like Lost which was only >>> made<<< for the purpose of hooking you. explaining the plot deeply would lead to...
+--------------------
+Rank 91/100 | Activation: 0.0656 | Example Index: 12566 | Token Index: 102
+Token: ' to'
+Context: ... unharmed student in the victimized classroom. She's questioned, due >>> to<<< having a history of knowing the shooter and having a record of being on the...
+--------------------
+Rank 92/100 | Activation: 0.0650 | Global Index: 10328338 | Error: Could not map to example
+--------------------
+Rank 93/100 | Activation: 0.0648 | Example Index: 20010 | Token Index: 55
+Token: ' so'
+Context: ... it. You have to see this film. I have seen it four times >>> so<<< far and I still haven't made up my mind as to what exactly happened...
+--------------------
+Rank 94/100 | Activation: 0.0639 | Example Index: 7999 | Token Index: 191
+Token: ' monster'
+Context: ... could not pull myself together for a while, because I had expected a realistic >>> monster<<< , because it is not one of the old Gojira movies, it...
+--------------------
+Rank 95/100 | Activation: 0.0638 | Example Index: 4017 | Token Index: 295 (Likely Padding)
+--------------------
+Rank 96/100 | Activation: 0.0637 | Example Index: 17763 | Token Index: 356 (Likely Padding)
+--------------------
+Rank 97/100 | Activation: 0.0635 | Example Index: 19833 | Token Index: 284
+Token: ' break'
+Context: ... around the dwellings in Bandalier, New Mexico - it was spring >>> break<<< - I was thinking to myself that when Jim Broadbent won his Oscar...
+--------------------
+Rank 98/100 | Activation: 0.0632 | Example Index: 5416 | Token Index: 281 (Likely Padding)
+--------------------
+Rank 99/100 | Activation: 0.0628 | Global Index: 10408588 | Error: Could not map to example
+--------------------
+Rank 100/100 | Activation: 0.0625 | Example Index: 14833 | Token Index: 430 (Likely Padding)
+--------------------

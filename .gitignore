@@ -6,7 +6,7 @@ sae_models_layer24/
 __pycache__/
 .cache/
 logs/ # If you create a logs directory
-results/
+
 # Ignore specific file patterns
 *.pt
 *.out

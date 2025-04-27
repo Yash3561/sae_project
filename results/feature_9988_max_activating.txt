@@ -1,0 +1,325 @@
+--- Max Activating Examples for Feature 9988 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/100 | Activation: 0.2904 | Example Index: 18393 | Token Index: 408 (Likely Padding)
+--------------------
+Rank 2/100 | Activation: 0.1993 | Example Index: 3367 | Token Index: 393 (Likely Padding)
+--------------------
+Rank 3/100 | Activation: 0.1883 | Example Index: 23928 | Token Index: 216 (Likely Padding)
+--------------------
+Rank 4/100 | Activation: 0.1868 | Example Index: 22163 | Token Index: 14
+Token: ' Las'
+Context: ...<|begin_of_text|>Bette Midler showcases her talents and beauty in "Diva >>> Las<<< Vegas". I am thrilled that I taped it and I am able to view...
+--------------------
+Rank 5/100 | Activation: 0.1793 | Example Index: 4462 | Token Index: 379
+Token: ' walking'
+Context: ... stiffly and slightly hunched over. We never find out why he is >>> walking<<< this way. I suspect the director thought it made him more sinister.<br...
+--------------------
+Rank 6/100 | Activation: 0.1721 | Example Index: 23336 | Token Index: 313 (Likely Padding)
+--------------------
+Rank 7/100 | Activation: 0.1643 | Example Index: 16784 | Token Index: 400 (Likely Padding)
+--------------------
+Rank 8/100 | Activation: 0.1605 | Example Index: 1262 | Token Index: 307 (Likely Padding)
+--------------------
+Rank 9/100 | Activation: 0.1605 | Global Index: 10189825 | Error: Could not map to example
+--------------------
+Rank 10/100 | Activation: 0.1604 | Example Index: 12237 | Token Index: 309 (Likely Padding)
+--------------------
+Rank 11/100 | Activation: 0.1588 | Global Index: 10337963 | Error: Could not map to example
+--------------------
+Rank 12/100 | Activation: 0.1528 | Example Index: 15361 | Token Index: 445 (Likely Padding)
+--------------------
+Rank 13/100 | Activation: 0.1321 | Example Index: 2096 | Token Index: 26
+Token: 'e'
+Context: ... been a more adorable scene in any film than Ann Margret singing "By >>>e<<< Bye Birdie" at the opening. She reprises it again at the...
+--------------------
+Rank 14/100 | Activation: 0.1312 | Example Index: 22711 | Token Index: 393
+Token: ' the'
+Context: ... that's not to mention that John Esposito's original script does give >>> the<<< adultery angle just a slight twist. You don't realize as you're watching...
+--------------------
+Rank 15/100 | Activation: 0.1289 | Example Index: 6806 | Token Index: 45
+Token: ' ordered'
+Context: ... Wallach, it's gotta be better than summer reruns, so I >>> ordered<<< it from local library. Well, any episode of "Lawrence Welk...
+--------------------
+Rank 16/100 | Activation: 0.1287 | Example Index: 13556 | Token Index: 28
+Token: '8'
+Context: ... movie released in 1990, followed on the heels of her 198 >>>8<<< off-Broadway stage production... what she and others refer to in the...
+--------------------
+Rank 17/100 | Activation: 0.1281 | Example Index: 13547 | Token Index: 350 (Likely Padding)
+--------------------
+Rank 18/100 | Activation: 0.1273 | Example Index: 22943 | Token Index: 130
+Token: ' -'
+Context: ..., dressed in the fifties style in scenes just before 1920 >>> -<<< unforgivable. Lanza deserved a better leading lady, and Bly...
+--------------------
+Rank 19/100 | Activation: 0.1246 | Example Index: 1930 | Token Index: 176 (Likely Padding)
+--------------------
+Rank 20/100 | Activation: 0.1231 | Example Index: 19026 | Token Index: 320
+Token: ' first'
+Context: ... the truth, it would have you snoozing it your seat by the >>> first<<< twenty minutes....
+--------------------
+Rank 21/100 | Activation: 0.1210 | Example Index: 21889 | Token Index: 63
+Token: ' and'
+Context: ... />I know it being released in the UK but that's Region 2 >>> and<<< PAL besides! Let's give this series its fair shake. America must know...
+--------------------
+Rank 22/100 | Activation: 0.1195 | Global Index: 10257509 | Error: Could not map to example
+--------------------
+Rank 23/100 | Activation: 0.1154 | Example Index: 7028 | Token Index: 311
+Token: ' look'
+Context: .... It has very little going for it. The only performer worth having a >>> look<<< at is Claudio Brook as the head of the asylum. He is one...
+--------------------
+Rank 24/100 | Activation: 0.1120 | Example Index: 16300 | Token Index: 215 (Likely Padding)
+--------------------
+Rank 25/100 | Activation: 0.1115 | Example Index: 1408 | Token Index: 2
+Token: ' don'
+Context: ...<|begin_of_text|>I >>> don<<< 't think you can get much worse then this. Put together bad actors,...
+--------------------
+Rank 26/100 | Activation: 0.1106 | Example Index: 18074 | Token Index: 194
+Token: ' film'
+Context: ... films protagonists wander around Los Angeles in their legendary haze. Despite this, the >>> film<<< has an excellent sense of pace, and doesn't drag at all. Many...
+--------------------
+Rank 27/100 | Activation: 0.1106 | Example Index: 7314 | Token Index: 199 (Likely Padding)
+--------------------
+Rank 28/100 | Activation: 0.1092 | Example Index: 5646 | Token Index: 187
+Token: '.'
+Context: ... space. Each has a pole and their is also a box on the platform >>>.<<< The platform begins tilting slightly and in response the men move about in an...
+--------------------
+Rank 29/100 | Activation: 0.1090 | Example Index: 17462 | Token Index: 18
+Token: ' hunting'
+Context: ... was in one word amazing! I have only seen it twice and have been >>> hunting<<< it everywhere. A beautiful ensemble of older screen gems who still have that energy...
+--------------------
+Rank 30/100 | Activation: 0.1074 | Example Index: 6628 | Token Index: 414 (Likely Padding)
+--------------------
+Rank 31/100 | Activation: 0.1073 | Example Index: 14695 | Token Index: 42
+Token: ' was'
+Context: ... not just for the plot and superb acting, but that such a unique movie >>> was<<< made. Most movies involving a spy or a war are filled with a slick...
+--------------------
+Rank 32/100 | Activation: 0.1068 | Example Index: 22115 | Token Index: 258 (Likely Padding)
+--------------------
+Rank 33/100 | Activation: 0.1055 | Example Index: 10760 | Token Index: 295
+Token: ' Mari'
+Context: ... Cosette and Valjean are riding through the park, they come across >>> Mari<<< us giving a speech at a meeting. About prison reform. When he comes...
+--------------------
+Rank 34/100 | Activation: 0.1046 | Example Index: 19919 | Token Index: 153
+Token: ' do'
+Context: .... Cloudy scenes and too many close-ups of the film's giant subjects >>> do<<< nothing to take advantage of IMAX's stunning 3D capabilities. There...
+--------------------
+Rank 35/100 | Activation: 0.1034 | Example Index: 19126 | Token Index: 146
+Token: ' am'
+Context: ... excellent. Altogether, I thought it was a totally enjoyable experience. I >>> am<<< disappointed that the professional critics (almost all adult males) savagely attacked...
+--------------------
+Rank 36/100 | Activation: 0.1034 | Example Index: 16805 | Token Index: 73
+Token: ' very'
+Context: ... for serbia. And all former republic of yugoslavia know it >>> very<<< well!!! So i think the rest of audience (for example: In Europe...
+--------------------
+Rank 37/100 | Activation: 0.1019 | Example Index: 23075 | Token Index: 498 (Likely Padding)
+--------------------
+Rank 38/100 | Activation: 0.1006 | Example Index: 17867 | Token Index: 225 (Likely Padding)
+--------------------
+Rank 39/100 | Activation: 0.1004 | Example Index: 13875 | Token Index: 188
+Token: ' nice'
+Context: ... />Steven Weber, most notably from the sitcom "Wings", did a >>> nice<<< job as the quiet, meek, underachieving sociopath. On...
+--------------------
+Rank 40/100 | Activation: 0.0997 | Example Index: 2859 | Token Index: 187
+Token: ' kids'
+Context: ...'t know. He goes to see his parents, brothers, sisters and their >>> kids<<< at some sort of anual family retreat, which seems very sweet, and...
+--------------------
+Rank 41/100 | Activation: 0.0990 | Global Index: 10261882 | Error: Could not map to example
+--------------------
+Rank 42/100 | Activation: 0.0979 | Example Index: 1909 | Token Index: 408 (Likely Padding)
+--------------------
+Rank 43/100 | Activation: 0.0971 | Example Index: 4286 | Token Index: 159
+Token: ' right'
+Context: ... thing! Little Tree needs to learn that his adoring guardians are not always >>> right<<< ....
+--------------------
+Rank 44/100 | Activation: 0.0964 | Example Index: 14764 | Token Index: 228
+Token: ' more'
+Context: ....Rather picking actors that looked near white in a sense, could have been >>> more<<< thought out.The actors did a great job, the script could have better written...
+--------------------
+Rank 45/100 | Activation: 0.0947 | Example Index: 19127 | Token Index: 231
+Token: ' Rach'
+Context: ... Her best roles, but I will continue looking for more of her films. >>> Rach<<< ael was too old to play this lead, but does a fine job as...
+--------------------
+Rank 46/100 | Activation: 0.0946 | Example Index: 18863 | Token Index: 53
+Token: 'br'
+Context: ... poverty. Great idea...if you ignore the screwup factor.<br />< >>>br<<< />Nice to see George Clooney doing something genuinely funny for a change....
+--------------------
+Rank 47/100 | Activation: 0.0943 | Example Index: 20205 | Token Index: 491 (Likely Padding)
+--------------------
+Rank 48/100 | Activation: 0.0926 | Example Index: 12716 | Token Index: 7
+Token: ' Dance'
+Context: ...<|begin_of_text|>"Dance, Fools, >>> Dance<<< " is an early Crawford-Gable vehicle from 1931. Crawford plays...
+--------------------
+Rank 49/100 | Activation: 0.0918 | Example Index: 24618 | Token Index: 94 (Likely Padding)
+--------------------
+Rank 50/100 | Activation: 0.0913 | Example Index: 18288 | Token Index: 118
+Token: ' Rhino'
+Context: ... as well. Spidey has his hands full as he battles Venom, >>> Rhino<<< , Mysterio, Scorpion, and Dr. Octopus to name...
+--------------------
+Rank 51/100 | Activation: 0.0891 | Example Index: 22431 | Token Index: 17
+Token: '.'
+Context: ... Bless 80's slasher films. This is a fun, fun movie >>>.<<< This is what slasher films are all about. Now I'm not saying...
+--------------------
+Rank 52/100 | Activation: 0.0889 | Example Index: 22581 | Token Index: 220
+Token: ' like'
+Context: ... due to logic, but I liked it anyway. I enjoy Williams in roles >>> like<<< this, more so than his comedic characters so that was an added bonus for...
+--------------------
+Rank 53/100 | Activation: 0.0880 | Example Index: 20321 | Token Index: 405 (Likely Padding)
+--------------------
+Rank 54/100 | Activation: 0.0880 | Example Index: 4787 | Token Index: 56
+Token: 'witch'
+Context: ... a creepy feel as it deals with a coven of satanists/ >>>witch<<< es in a small town and a young woman's attempt to escape them....
+--------------------
+Rank 55/100 | Activation: 0.0877 | Example Index: 15258 | Token Index: 400 (Likely Padding)
+--------------------
+Rank 56/100 | Activation: 0.0876 | Example Index: 21722 | Token Index: 76
+Token: ' Berlin'
+Context: ... lines, an amazing theatrical timing showed by all the stars and beautiful shots of >>> Berlin<<< , one of the most interesting city in the world. It's entertaining to...
+--------------------
+Rank 57/100 | Activation: 0.0858 | Example Index: 15458 | Token Index: 101
+Token: '.'
+Context: ... he meets the young free will spirit Sarah of whom he falls in love to >>>.<<< One day Alex doesn't know what to do when he gets a job to...
+--------------------
+Rank 58/100 | Activation: 0.0836 | Example Index: 2653 | Token Index: 306 (Likely Padding)
+--------------------
+Rank 59/100 | Activation: 0.0805 | Example Index: 14852 | Token Index: 366
+Token: ' is'
+Context: ... forbidden planet of Talos IV. Mendez informs Kirk that Talos IV >>> is<<< under interdiction, and any contact with the planet by Starfleet vessels...
+--------------------
+Rank 60/100 | Activation: 0.0797 | Example Index: 9639 | Token Index: 102
+Token: ' /><'
+Context: ... past than in looking forward as an authentic innovator would or could.<br >>> /><<<< br />Yet Greenaway's biggest failing is that he cannot write. His...
+--------------------
+Rank 61/100 | Activation: 0.0793 | Example Index: 2467 | Token Index: 269
+Token: ' any'
+Context: ... />I as a kid loved this movie, and I guess if you want >>> any<<< enjoyment out of this movie, you'll have to revert back to little kid...
+--------------------
+Rank 62/100 | Activation: 0.0790 | Example Index: 6732 | Token Index: 231
+Token: ' about'
+Context: ... *These* are the questions I want answers to. Not the philosophical question >>> about<<< that tree in the woods and well, you know......
+--------------------
+Rank 63/100 | Activation: 0.0786 | Example Index: 10957 | Token Index: 151
+Token: ' kind'
+Context: ..., I'm left with the impression that the producers were hoping to capture some >>> kind<<< of Napolean Dynamite-like humor, where it's not so much the...
+--------------------
+Rank 64/100 | Activation: 0.0783 | Example Index: 24375 | Token Index: 142
+Token: ' are'
+Context: ... the movie may not have been made. In short a great movie if you >>> are<<< looking for something to laugh at. If you want a good movie maybe look...
+--------------------
+Rank 65/100 | Activation: 0.0774 | Example Index: 22550 | Token Index: 144
+Token: '.'
+Context: ...HUGE" or a "HIT" with the general movie-going public >>>.<<< PEOPLE make the film a huge success. With Titanic, everyone was in awe...
+--------------------
+Rank 66/100 | Activation: 0.0771 | Example Index: 21637 | Token Index: 252
+Token: ' acting'
+Context: ... movie's success is, no doubt, due in no small part to their >>> acting<<< prowess.<br /><br />Love Jane Eyre or hate her, but...
+--------------------
+Rank 67/100 | Activation: 0.0771 | Global Index: 10397137 | Error: Could not map to example
+--------------------
+Rank 68/100 | Activation: 0.0767 | Example Index: 4633 | Token Index: 462 (Likely Padding)
+--------------------
+Rank 69/100 | Activation: 0.0763 | Example Index: 2491 | Token Index: 13
+Token: ' ludicrous'
+Context: ...<|begin_of_text|>Van Dien must cringe with embarrassment at the memory of this >>> ludicrous<<< ly poor film, as indeed must every single individual involved. To be honest...
+--------------------
+Rank 70/100 | Activation: 0.0754 | Example Index: 7587 | Token Index: 207
+Token: ' something'
+Context: ..., but if you ever consider watching this - I highly recommend you turn to >>> something<<< less traumatic, because not only it's a total loss of time, but...
+--------------------
+Rank 71/100 | Activation: 0.0742 | Example Index: 2554 | Token Index: 195
+Token: ' cards'
+Context: ... to early films and movie does feel as if it might play better with title >>> cards<<< than spoken dialogue. (Of course, title cards would prevent Ford from rest...
+--------------------
+Rank 72/100 | Activation: 0.0742 | Example Index: 5577 | Token Index: 448 (Likely Padding)
+--------------------
+Rank 73/100 | Activation: 0.0740 | Example Index: 23600 | Token Index: 19
+Token: ' Nearly'
+Context: ... pretty much has the viewer from start to finish with its edgy atmosphere. >>> Nearly<<< the whole movie is set in a prison cell revolving around 4 characters of...
+--------------------
+Rank 74/100 | Activation: 0.0735 | Example Index: 16180 | Token Index: 175
+Token: ' err'
+Context: ... lessons at the local gym, but Diana is denied similar pursuits. On an >>> err<<< and to the gym to meet Tiny, Diana is captivated by boxing....
+--------------------
+Rank 75/100 | Activation: 0.0729 | Example Index: 20782 | Token Index: 126
+Token: ' particular'
+Context: ...A thriller which does not seem like one. A very unconventional movie, very >>> particular<<< atmosphere throughout the whole movie though you might feel awkward a few times with a...
+--------------------
+Rank 76/100 | Activation: 0.0725 | Example Index: 15282 | Token Index: 262 (Likely Padding)
+--------------------
+Rank 77/100 | Activation: 0.0720 | Example Index: 9419 | Token Index: 173 (Likely Padding)
+--------------------
+Rank 78/100 | Activation: 0.0712 | Example Index: 1719 | Token Index: 170 (Likely Padding)
+--------------------
+Rank 79/100 | Activation: 0.0710 | Example Index: 19019 | Token Index: 231 (Likely Padding)
+--------------------
+Rank 80/100 | Activation: 0.0698 | Example Index: 18146 | Token Index: 391
+Token: ' love'
+Context: ... while he himself became the victim of the abuse. This event cemented the >>> love<<< between the two brothers, who from then on became the best of friends....
+--------------------
+Rank 81/100 | Activation: 0.0691 | Example Index: 1219 | Token Index: 415 (Likely Padding)
+--------------------
+Rank 82/100 | Activation: 0.0690 | Example Index: 22953 | Token Index: 166
+Token: ' underlying'
+Context: ... Conrad Vieght was such a great actor that he was able to continue this >>> underlying<<< "evilness" a few years later in "Casablanca."...
+--------------------
+Rank 83/100 | Activation: 0.0679 | Example Index: 17294 | Token Index: 119
+Token: ' Oscar'
+Context: ... this movie she shows that she is a great actress and maybe picking a first >>> Oscar<<< nomination for her performance. Rupert Friend is almost bland as Prince Albert but he...
+--------------------
+Rank 84/100 | Activation: 0.0677 | Example Index: 2951 | Token Index: 284
+Token: ' times'
+Context: .... with nobody to steer it. It would promptly roll over about 30 >>> times<<< . Thirdly, if you hit the pavement at 180 mph, you...
+--------------------
+Rank 85/100 | Activation: 0.0663 | Example Index: 6095 | Token Index: 279 (Likely Padding)
+--------------------
+Rank 86/100 | Activation: 0.0657 | Example Index: 8832 | Token Index: 132
+Token: ' example'
+Context: ... imagination on such inhumane suffering.. "Kill Bill" would be another >>> example<<< but at least "Kill Bill" has its purpose, meaning, climax and...
+--------------------
+Rank 87/100 | Activation: 0.0653 | Example Index: 13862 | Token Index: 49
+Token: ' interest'
+Context: ...25 minutes to go. Forbidden Lie$ powered on though, never losing my >>> interest<<< .<br /><br />The film's subject is Norma Khoury...
+--------------------
+Rank 88/100 | Activation: 0.0651 | Example Index: 17943 | Token Index: 318
+Token: ' on'
+Context: ... very little of India outright, that would have been impossible. Their rule depended >>> on<<< the native troops you see here. Note that the soldiers cannot rise above the...
+--------------------
+Rank 89/100 | Activation: 0.0650 | Example Index: 1041 | Token Index: 97
+Token: ' one'
+Context: ... /><br />I know it's wrong to hold this unfortunate development against any >>> one<<< movie, so let me stress that "Villa Paranoia" would be...
+--------------------
+Rank 90/100 | Activation: 0.0642 | Example Index: 21882 | Token Index: 60
+Token: ' way'
+Context: ... replaced by a dam. When locals along the way decide to "have their >>> way<<< " with the interlopers it leads to several deaths and loads of trauma...
+--------------------
+Rank 91/100 | Activation: 0.0638 | Example Index: 21681 | Token Index: 144
+Token: ' Day'
+Context: ... and chemistry with Prince, but her script doesn't let her far. Morris >>> Day<<< and other supporting actors provide comedic elements....
+--------------------
+Rank 92/100 | Activation: 0.0631 | Example Index: 6762 | Token Index: 280 (Likely Padding)
+--------------------
+Rank 93/100 | Activation: 0.0623 | Example Index: 4205 | Token Index: 108
+Token: 'pt'
+Context: ... would be no movie. Too bad it didn't happen that way. Tem >>>pt<<< ed to turn it off several times, I stuck with it to see just...
+--------------------
+Rank 94/100 | Activation: 0.0622 | Example Index: 4361 | Token Index: 339 (Likely Padding)
+--------------------
+Rank 95/100 | Activation: 0.0620 | Example Index: 22969 | Token Index: 251 (Likely Padding)
+--------------------
+Rank 96/100 | Activation: 0.0619 | Example Index: 4808 | Token Index: 167
+Token: ' way'
+Context: ... and ultimately is the hero, but... it doesn't quite work out that >>> way<<< . By the very end of this story Liz is beheaded by the killer...
+--------------------
+Rank 97/100 | Activation: 0.0611 | Example Index: 18998 | Token Index: 36
+Token: ' are'
+Context: ... their Western counterparts. The storylines of the three 'Chinese Ghost' films >>> are<<< largely identical, but the direction is excellent and the detail and colour is such...
+--------------------
+Rank 98/100 | Activation: 0.0606 | Example Index: 22557 | Token Index: 194
+Token: ' unfair'
+Context: ... that they do not perform to their full potentials. However I think it's >>> unfair<<< to say that they are terrible actors. I personally think they are both very...
+--------------------
+Rank 99/100 | Activation: 0.0605 | Example Index: 4120 | Token Index: 311 (Likely Padding)
+--------------------
+Rank 100/100 | Activation: 0.0597 | Example Index: 19642 | Token Index: 3
+Token: ' film'
+Context: ...<|begin_of_text|>Cute >>> film<<< about three lively sisters from Switzerland (often seen running about in matching outfits)...
+--------------------

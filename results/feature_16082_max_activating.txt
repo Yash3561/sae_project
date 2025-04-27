@@ -1,0 +1,297 @@
+--- Max Activating Examples for Feature 16082 ---
+SAE Checkpoint: ./sae_models_layer24/sae_checkpoint_epoch_010.pt
+------------------------------------------------------------
+Rank 1/100 | Activation: 0.2462 | Example Index: 12748 | Token Index: 374 (Likely Padding)
+--------------------
+Rank 2/100 | Activation: 0.2208 | Example Index: 7465 | Token Index: 61
+Token: ' exchange'
+Context: ... movie can't resist the temptation of making drama where non exists. Every small >>> exchange<<< of words turns immediately into a lengthy, unjustified dialog that is so typical...
+--------------------
+Rank 3/100 | Activation: 0.1987 | Example Index: 5098 | Token Index: 138
+Token: ' convinced'
+Context: ....<br /><br />At first, watching "Taboo," I was >>> convinced<<< her flat delivery was a shrewd choice that would later give rise to...
+--------------------
+Rank 4/100 | Activation: 0.1958 | Example Index: 20805 | Token Index: 427 (Likely Padding)
+--------------------
+Rank 5/100 | Activation: 0.1886 | Example Index: 1685 | Token Index: 265 (Likely Padding)
+--------------------
+Rank 6/100 | Activation: 0.1814 | Example Index: 18087 | Token Index: 78
+Token: ','
+Context: ..., sunbacked silhouettes of lovers do not merely complement the story >>>,<<< they are the story of struggle against hardship.<br /><br />The actors...
+--------------------
+Rank 7/100 | Activation: 0.1749 | Example Index: 8291 | Token Index: 260
+Token: ','
+Context: ... get people who look the age. None of them gave even remotely decent performances >>>,<<< and just seemed like they were picked off the street or were friends of the...
+--------------------
+Rank 8/100 | Activation: 0.1606 | Example Index: 7586 | Token Index: 156 (Likely Padding)
+--------------------
+Rank 9/100 | Activation: 0.1535 | Example Index: 9760 | Token Index: 470
+Token: ' all'
+Context: ... return, that's not really a spoiler, this is a bible movie after >>> all<<< ).<br /><br />As for the movie as a movie itself,...
+--------------------
+Rank 10/100 | Activation: 0.1526 | Example Index: 15015 | Token Index: 23
+Token: 'ire'
+Context: ... "Hamlets" in the nineties, the first being Franco Zeff >>>ire<<< lli's, starring Mel Gibson, from 1990. Zeffire...
+--------------------
+Rank 11/100 | Activation: 0.1493 | Example Index: 3031 | Token Index: 380 (Likely Padding)
+--------------------
+Rank 12/100 | Activation: 0.1487 | Example Index: 9724 | Token Index: 15
+Token: ','
+Context: ...<|begin_of_text|>"A young woman suffers from the delusion that she is a werewolf >>>,<<< based upon a family legend of an ancestor accused of and killed for allegedly being...
+--------------------
+Rank 13/100 | Activation: 0.1482 | Global Index: 10634063 | Error: Could not map to example
+--------------------
+Rank 14/100 | Activation: 0.1475 | Global Index: 10331915 | Error: Could not map to example
+--------------------
+Rank 15/100 | Activation: 0.1473 | Example Index: 20423 | Token Index: 491
+Token: ' to'
+Context: ... five year type house arrest after Steve Biko was killed. So in order >>> to<<< publish his manuscript on Steve Biko, he had to escape. Because the...
+--------------------
+Rank 16/100 | Activation: 0.1466 | Example Index: 21587 | Token Index: 80
+Token: '.<'
+Context: ... in what it offers fictively or not, BB&C is a visual feast >>>.<<<< br /><br />I'm not saying it's his best work, I...
+--------------------
+Rank 17/100 | Activation: 0.1458 | Global Index: 10707475 | Error: Could not map to example
+--------------------
+Rank 18/100 | Activation: 0.1441 | Example Index: 16489 | Token Index: 5
+Token: ' to'
+Context: ...<|begin_of_text|>It's always difficult >>> to<<< put a stamp on any film as being 'the best,' whether of all...
+--------------------
+Rank 19/100 | Activation: 0.1430 | Example Index: 17075 | Token Index: 184
+Token: ' really'
+Context: ... cause difficult situations. Also I think the actor selections has succeeded perfectly. It >>> really<<< felt like you had been some person watching the episodes as an outsider when they...
+--------------------
+Rank 20/100 | Activation: 0.1414 | Example Index: 11044 | Token Index: 127
+Token: ','
+Context: ... - replete with billboards, radio and TV spots, an official logo >>>,<<< a catchy theme song and photos of fake merchandise - and then waited around to...
+--------------------
+Rank 21/100 | Activation: 0.1408 | Example Index: 19245 | Token Index: 250 (Likely Padding)
+--------------------
+Rank 22/100 | Activation: 0.1405 | Example Index: 18284 | Token Index: 30
+Token: ' one'
+Context: ...ife" came not too late or was even superfluous. It's >>> one<<< of the few that try to deal with the second sad side of the war...
+--------------------
+Rank 23/100 | Activation: 0.1348 | Example Index: 13308 | Token Index: 275 (Likely Padding)
+--------------------
+Rank 24/100 | Activation: 0.1344 | Example Index: 24637 | Token Index: 459 (Likely Padding)
+--------------------
+Rank 25/100 | Activation: 0.1332 | Example Index: 18288 | Token Index: 272 (Likely Padding)
+--------------------
+Rank 26/100 | Activation: 0.1311 | Example Index: 10022 | Token Index: 181
+Token: ' perform'
+Context: ... embarrassment at the humiliating dance routines and tuneless songs that she is forced to >>> perform<<< . Maxwell Caulfield, however, lacks even the skill to express embarrassment,...
+--------------------
+Rank 27/100 | Activation: 0.1302 | Example Index: 23880 | Token Index: 7
+Token: 'ull'
+Context: ...<|begin_of_text|>I have the entire Weissm >>>ull<<< er Tarzan series on DVD (fully restored editions) & I never tire...
+--------------------
+Rank 28/100 | Activation: 0.1294 | Example Index: 315 | Token Index: 311 (Likely Padding)
+--------------------
+Rank 29/100 | Activation: 0.1293 | Example Index: 24721 | Token Index: 433 (Likely Padding)
+--------------------
+Rank 30/100 | Activation: 0.1291 | Example Index: 20185 | Token Index: 214 (Likely Padding)
+--------------------
+Rank 31/100 | Activation: 0.1286 | Example Index: 18277 | Token Index: 330
+Token: ' fully'
+Context: ... three actors give astonishingly fine performances: Ed Harris offers one of his most >>> fully<<< realized roles while De Niro and Baker maintain the high standards set by their...
+--------------------
+Rank 32/100 | Activation: 0.1201 | Example Index: 23440 | Token Index: 317
+Token: ' time'
+Context: ... very fast. The repeat value for this show is low too--the second >>> time<<< around an episode is fairly funny, and by the third time, in my...
+--------------------
+Rank 33/100 | Activation: 0.1151 | Example Index: 18293 | Token Index: 32
+Token: ' The'
+Context: ... in the comics. Spider-man has been framed by a mysterious impostor. >>> The<<< city is being overrun by a strange gas, and symbiotes like those...
+--------------------
+Rank 34/100 | Activation: 0.1147 | Example Index: 4520 | Token Index: 477 (Likely Padding)
+--------------------
+Rank 35/100 | Activation: 0.1146 | Example Index: 24775 | Token Index: 416 (Likely Padding)
+--------------------
+Rank 36/100 | Activation: 0.1143 | Example Index: 13576 | Token Index: 378
+Token: ' Cole'
+Context: ... to heed warning after warning by their wise, if cynical friend and lawyer Bill >>> Cole<<< (Melvin Douglas, in a nicely sardonic role). For example...
+--------------------
+Rank 37/100 | Activation: 0.1117 | Example Index: 316 | Token Index: 197 (Likely Padding)
+--------------------
+Rank 38/100 | Activation: 0.1089 | Global Index: 10544932 | Error: Could not map to example
+--------------------
+Rank 39/100 | Activation: 0.1075 | Example Index: 2311 | Token Index: 177
+Token: ' the'
+Context: ... and lady who thought sex outside of marriage was just fine). Or, perhaps >>> the<<< meaning was that there was a lot of bigotry underlying the nice home town--...
+--------------------
+Rank 40/100 | Activation: 0.1074 | Example Index: 23867 | Token Index: 505 (Likely Padding)
+--------------------
+Rank 41/100 | Activation: 0.1073 | Example Index: 6570 | Token Index: 495 (Likely Padding)
+--------------------
+Rank 42/100 | Activation: 0.1068 | Example Index: 9165 | Token Index: 370
+Token: ' cinemat'
+Context: ... you will ever witness, the plot is the most ridiculous, the editing and >>> cinemat<<< ography is the most amateur and even the music is like nails on a chalk...
+--------------------
+Rank 43/100 | Activation: 0.1055 | Global Index: 10371452 | Error: Could not map to example
+--------------------
+Rank 44/100 | Activation: 0.1048 | Example Index: 22688 | Token Index: 262 (Likely Padding)
+--------------------
+Rank 45/100 | Activation: 0.1045 | Example Index: 15279 | Token Index: 36
+Token: ' power'
+Context: ... the audience. "In Cold Blood" hasn't lost an ounce of its >>> power<<< . Its exceptionally well made yet forces the viewer to think. Some have complained...
+--------------------
+Rank 46/100 | Activation: 0.1044 | Example Index: 8668 | Token Index: 272
+Token: ' PC'
+Context: .... For those who hate seeing a movie cave in to political correctness, the >>> PC<<< add-ins are just annoying digressions.<br /><br />This has...
+--------------------
+Rank 47/100 | Activation: 0.1022 | Example Index: 7794 | Token Index: 172
+Token: ' frustrated'
+Context: ... The predator is portrayed as a cool heartless, almost psychopath like sexual >>> frustrated<<< boy and the victim as a naive young woman, who acts like she didn...
+--------------------
+Rank 48/100 | Activation: 0.1010 | Global Index: 10288667 | Error: Could not map to example
+--------------------
+Rank 49/100 | Activation: 0.0972 | Example Index: 7921 | Token Index: 401 (Likely Padding)
+--------------------
+Rank 50/100 | Activation: 0.0971 | Example Index: 4907 | Token Index: 301 (Likely Padding)
+--------------------
+Rank 51/100 | Activation: 0.0966 | Example Index: 2855 | Token Index: 446 (Likely Padding)
+--------------------
+Rank 52/100 | Activation: 0.0956 | Example Index: 14934 | Token Index: 330 (Likely Padding)
+--------------------
+Rank 53/100 | Activation: 0.0948 | Example Index: 4817 | Token Index: 193
+Token: ' get'
+Context: ... opinion. The movie does eventually bring tears, but it takes too long to >>> get<<< to this. The movie isn't supposed to have been an original TV movie...
+--------------------
+Rank 54/100 | Activation: 0.0946 | Example Index: 15934 | Token Index: 320 (Likely Padding)
+--------------------
+Rank 55/100 | Activation: 0.0937 | Example Index: 5077 | Token Index: 174 (Likely Padding)
+--------------------
+Rank 56/100 | Activation: 0.0934 | Example Index: 15258 | Token Index: 390 (Likely Padding)
+--------------------
+Rank 57/100 | Activation: 0.0934 | Global Index: 10541621 | Error: Could not map to example
+--------------------
+Rank 58/100 | Activation: 0.0932 | Example Index: 22700 | Token Index: 381 (Likely Padding)
+--------------------
+Rank 59/100 | Activation: 0.0932 | Example Index: 24139 | Token Index: 340 (Likely Padding)
+--------------------
+Rank 60/100 | Activation: 0.0928 | Example Index: 21793 | Token Index: 15
+Token: ' slightly'
+Context: ...<|begin_of_text|>Ah, the best and funniest movie about female football fans, only >>> slightly<<< better than the 1982 saga of teenage delusion set in North London...
+--------------------
+Rank 61/100 | Activation: 0.0921 | Example Index: 19148 | Token Index: 335 (Likely Padding)
+--------------------
+Rank 62/100 | Activation: 0.0915 | Example Index: 5056 | Token Index: 190
+Token: ' has'
+Context: ... intent. And in fact, their struggles to maintain a family under such adversity >>> has<<< a certain nobility that most of us can barely appreciate. Kornbl...
+--------------------
+Rank 63/100 | Activation: 0.0915 | Example Index: 21841 | Token Index: 209 (Likely Padding)
+--------------------
+Rank 64/100 | Activation: 0.0913 | Example Index: 23804 | Token Index: 82
+Token: ' superb'
+Context: ... up his victims in local railway stations. Apart from this, the film is >>> superb<<< ....
+--------------------
+Rank 65/100 | Activation: 0.0909 | Example Index: 6574 | Token Index: 41
+Token: ' seems'
+Context: ... imagination tells me that it could well be.<br /><br />This film >>> seems<<< like an attempt at artistic suicide on behalf of the director, and I for...
+--------------------
+Rank 66/100 | Activation: 0.0896 | Example Index: 18489 | Token Index: 402 (Likely Padding)
+--------------------
+Rank 67/100 | Activation: 0.0895 | Global Index: 10146852 | Error: Could not map to example
+--------------------
+Rank 68/100 | Activation: 0.0893 | Example Index: 13574 | Token Index: 191
+Token: ' never'
+Context: ... give believable performances as the harried Blandings couple overwhelmed by problems they >>> never<<< imagined, and Melvyn Douglas is even better as Blanding's lawyer...
+--------------------
+Rank 69/100 | Activation: 0.0874 | Example Index: 5976 | Token Index: 263
+Token: ' with'
+Context: ..., even when her Medusan idol told her to shut up & go along >>> with<<< them. So the beetch out of spite messes with the melded...
+--------------------
+Rank 70/100 | Activation: 0.0864 | Example Index: 3995 | Token Index: 260
+Token: ' "'
+Context: ... graphic broom handle masturbation followed by some painful man-rape... Surely, >>> "<<< I Spit on Your Corpse, I P!ss on Your Grave"...
+--------------------
+Rank 71/100 | Activation: 0.0852 | Example Index: 54 | Token Index: 14
+Token: ' a'
+Context: ...<|begin_of_text|>This has to be the worst piece of garbage I've seen in >>> a<<< while.<br /><br />Heath Ledger is a heartthrob?...
+--------------------
+Rank 72/100 | Activation: 0.0843 | Example Index: 10921 | Token Index: 505
+Token: ' Russian'
+Context: ... I don't profess to fully understand Russian culture and I probably don't have >>> Russian<<< values, but I immediately picked...
+--------------------
+Rank 73/100 | Activation: 0.0836 | Example Index: 23592 | Token Index: 208
+Token: '),'
+Context: ... fraud; his cell-mates, the violent Marcus (Clovis Cornillac >>>),<<< the intellectual Lassalle (Philippe Laudenbach) and the mentally...
+--------------------
+Rank 74/100 | Activation: 0.0836 | Example Index: 5072 | Token Index: 11
+Token: 'ia'
+Context: ...<|begin_of_text|>Rex Reed once said of a movie ("Jul >>>ia<<< and Julia" to be specific) that it looked like it was shot through...
+--------------------
+Rank 75/100 | Activation: 0.0833 | Global Index: 10547633 | Error: Could not map to example
+--------------------
+Rank 76/100 | Activation: 0.0833 | Global Index: 10296780 | Error: Could not map to example
+--------------------
+Rank 77/100 | Activation: 0.0832 | Example Index: 15260 | Token Index: 466
+Token: ' /><'
+Context: ... flowing down Robert Blake's pallid face in lieu of actual tears.<br >>> /><<<< br />The only thing hampering "In Cold Blood" is the slow...
+--------------------
+Rank 78/100 | Activation: 0.0832 | Global Index: 10578487 | Error: Could not map to example
+--------------------
+Rank 79/100 | Activation: 0.0822 | Example Index: 8448 | Token Index: 336 (Likely Padding)
+--------------------
+Rank 80/100 | Activation: 0.0814 | Example Index: 22939 | Token Index: 397
+Token: ' and'
+Context: ... to stick to opera. The Great Caruso won an Oscar for sound recording >>> and<<< received nominations for costume and set design.<br /><br />Mario himself helped...
+--------------------
+Rank 81/100 | Activation: 0.0810 | Example Index: 5521 | Token Index: 263
+Token: ' attack'
+Context: ... but to use the subject only as a point of departure for a full throttle >>> attack<<< on Christianity and all religion. Most of the interviews are with those philosophically...
+--------------------
+Rank 82/100 | Activation: 0.0772 | Example Index: 1550 | Token Index: 126
+Token: ' the'
+Context: ... What a wild idea. What a radical, naughty gal. Women now have >>> the<<< right to date and sleep around as much as they want to. As much...
+--------------------
+Rank 83/100 | Activation: 0.0768 | Example Index: 939 | Token Index: 341 (Likely Padding)
+--------------------
+Rank 84/100 | Activation: 0.0766 | Example Index: 12153 | Token Index: 448 (Likely Padding)
+--------------------
+Rank 85/100 | Activation: 0.0764 | Example Index: 14238 | Token Index: 301
+Token: ' things'
+Context: ... Soha Ali Khan. The characters are so natural that you feel as if >>> things<<< are happening to the guy next door. The background music of the film also...
+--------------------
+Rank 86/100 | Activation: 0.0764 | Example Index: 10894 | Token Index: 35
+Token: '.'
+Context: ..., This however, wasn't even a guilty pleasure, it was just crap >>>.<<< Some guy, vince offer, who is conceited enough to make himself...
+--------------------
+Rank 87/100 | Activation: 0.0763 | Example Index: 22475 | Token Index: 64
+Token: ',but'
+Context: ... period, and even the location of where the story passes(looks North America >>>,but<<< has some characteristics from Iceland for example) we can have fun even so.(...
+--------------------
+Rank 88/100 | Activation: 0.0762 | Example Index: 14026 | Token Index: 509 (Likely Padding)
+--------------------
+Rank 89/100 | Activation: 0.0762 | Global Index: 10545741 | Error: Could not map to example
+--------------------
+Rank 90/100 | Activation: 0.0754 | Global Index: 10367848 | Error: Could not map to example
+--------------------
+Rank 91/100 | Activation: 0.0751 | Global Index: 10762957 | Error: Could not map to example
+--------------------
+Rank 92/100 | Activation: 0.0751 | Example Index: 19053 | Token Index: 20
+Token: ' a'
+Context: ... film. It challenges the viewer and encourages you to pay attention. There's >>> a<<< lot to like here. The director seems interested in taking apart some of the...
+--------------------
+Rank 93/100 | Activation: 0.0739 | Example Index: 4070 | Token Index: 258 (Likely Padding)
+--------------------
+Rank 94/100 | Activation: 0.0737 | Example Index: 8752 | Token Index: 34
+Token: ' piece'
+Context: ... a movie in my entire life as i was when i walked out of this >>> piece<<< of crap. NOTHING in it makes any sense. none of it is clever...
+--------------------
+Rank 95/100 | Activation: 0.0734 | Example Index: 21665 | Token Index: 134 (Likely Padding)
+--------------------
+Rank 96/100 | Activation: 0.0734 | Example Index: 3911 | Token Index: 119
+Token: ' mo'
+Context: ... much sense as anything in this hopelessly purile, adle-brained >>> mo<<< ovie. Then this dopey "Army Brass", who looks kind of like...
+--------------------
+Rank 97/100 | Activation: 0.0733 | Example Index: 14301 | Token Index: 40
+Token: '.'
+Context: ... it is way better without.<br /><br />I love having C.J >>>.<<< and Grandpa living at the house because they are so funny together.<br...
+--------------------
+Rank 98/100 | Activation: 0.0724 | Example Index: 12133 | Token Index: 444 (Likely Padding)
+--------------------
+Rank 99/100 | Activation: 0.0715 | Example Index: 17581 | Token Index: 196 (Likely Padding)
+--------------------
+Rank 100/100 | Activation: 0.0711 | Example Index: 23090 | Token Index: 308 (Likely Padding)
+--------------------
